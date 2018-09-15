@@ -4,5 +4,9 @@
 
 Домашние задания за I курс лежат [вот тут](https://github.com/AnnaPalarkina171/Repozitori)
 
-[PEP8](http://pep8.org/#introduction)
+|    №  |Описание |Ссылка на работу
+|       |         |    
+|       |         |
+|       |         |
+|       |         |
 
