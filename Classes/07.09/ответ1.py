@@ -4,6 +4,8 @@ letters = 'abcdefghijklmnopqrstuvwxyz'
 
 #get a random letter
 letter = letters[random.randint(0,25)]
+print(letter)
+
 
 #loop until the user guesses correctly
 while True:
