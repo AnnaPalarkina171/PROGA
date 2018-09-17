@@ -228,7 +228,6 @@ def trying(random_word):
                         print(man[dying])
                 
 def main():
-    #учесть, если эта буква уже была
     random_word = word()
     trying(random_word)
 main()
