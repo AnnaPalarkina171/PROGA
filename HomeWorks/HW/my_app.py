@@ -36,18 +36,18 @@ def form():
         gender = request.args['gender']
         lg = '\\' + language + '.' + gender + '.csv'
         name = cwd + lg
-        if os.path.exists(cwd + '\\' + 'names.csv') is True:
-            with open('names.csv', 'a', encoding='utf-8') as n:
-                text = n.read()
-                text = text.split(',')
-                for file in text:
-                    if file != '':
-                        if file != name:
-                            n.write(name)
-                            n.write(',')
-        else:
+        if os.path.exists(cwd + '\\' + 'names.csv') is False:
             with open('names.csv', 'a', encoding='utf-8') as n:
                 n.write(name)
+                n.write(',')
+        else:
+            with open('names.csv', 'r', encoding='utf-8') as n:
+                text = n.read()
+                text = text.split(',')
+                if name not in text:
+                    with open('names.csv', 'a', encoding='utf-8') as n:
+                        n.write(name)
+                        n.write(',')
         with open(name, 'a', encoding='utf-8') as f:
             for c in colors:
                 color = request.args[c]
@@ -71,11 +71,12 @@ def stats():
     with open('names.csv', 'r', encoding='utf-8') as n:
         n = n.read()
         names = n.split(',')
+        names.remove('')
         for name in names:
-            if name != '':
-                with open(name, 'r', encoding='utf-8') as f:
-                    cont = f.read().split('\n')
-                    content.append(cont)
+            with open(name, 'r', encoding='utf-8') as f:
+                cont = f.read().split('\n')
+                cont.remove('')
+                content.append(cont)
     return render_template('stats.html', urls=urls, content=content)
 
 
