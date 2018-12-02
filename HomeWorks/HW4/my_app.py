@@ -2,6 +2,7 @@ from flask import Flask
 import csv
 import os
 import json
+import urllib.request
 from flask import url_for, render_template, request, redirect
 
 app = Flask(__name__)
@@ -89,8 +90,11 @@ def json():
         'Json': url_for('json'),
         'Search': url_for('search')
     }
-
-    return render_template('json.html', urls=urls)
+    url = url_for(form)
+    reponse = urllib.request.urlopen(url)
+    text = reponse.read().decode('utf-8')
+    data = json.loads(text)
+    return render_template('json.html', urls=urls, data=data)
 
 
 @app.route('/search')
