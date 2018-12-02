@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Form Page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <style>
+            .contain{
+                display: grid;
+                text-align:center;
+                grid-template-columns: 1fr 1fr 1fr;
+                grid-template-rows: 200px 200px 200px;
+                padding-top: 0px;
+                padding-bottom: 30px;
+            }
+            .blueviolet{
+                background-color: blueviolet;
+                padding-top: 80px;
+            }
+            .aqua{
+                background-color: aqua;
+                padding-top: 80px;
+            }
+            .coral{
+                background-color: coral;
+                padding-top: 80px;
+            }
+            .deepskyblue{
+                background-color: deepskyblue;
+                padding-top: 80px;
+            }
+            .hotpink{
+                background-color: hotpink;
+                padding-top: 80px;
+            }
+            .blue{
+                background-color: blue;
+                padding-top: 80px;
+            }
+            .chartreuse{
+                background-color: chartreuse;
+                padding-top: 80px;
+            }
+            .tomato{
+                background-color: tomato;
+                padding-top: 80px;
+            }
+            .brown{
+                background-color: brown;
+                padding-top: 80px;
+            }
+            p{
+                text-align: center;
+            }
+            fieldset{
+                text-align: center;
+            }
+            li{
+            width:290px;
+            text-align: center;
+            }
+
+         </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <ul class="nav navbar-nav">
+                {% for name, url in urls.items() %}
+		        <li><a href="{{ url }}">{{ name }}</a></li>
+		        {% endfor %}
+            </ul>
+        </div>
+        </nav>
+    <form action="">
+        <fieldset>
+            <legend>Personal information:</legend>
+            Your language: <br>
+            <input type="text" name="language"><br>
+            Your gender:<br>
+            <input type="radio" name="gender" value="male">Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+        </fieldset>
+        <p>Write the name of each color in the language you specified earlier</p>
+        <div class="contain">
+            <div class="coral" ><input type="text" name="coral"></div>
+            <div class="aqua"><input type="text" name="aqua"></div>
+            <div class="blueviolet"><input type="text" name="blueviolet"></div>
+            <div class="deepskyblue"><input type="text" name="deepskyblue"></div>
+            <div class="hotpink"><input type="text" name="hotpink"></div>
+            <div class="blue"><input type="text" name="blue"></div>
+            <div class="chartreuse"><input type="text" name="chartreuse"></div>
+            <div class="tomato"><input type="text" name="tomato"></div>
+            <div class="brown"><input type="text" name="brown"></div>
+        </div>
+        <p><input type="submit" value="Отправить"></p>
+    </form>
+    </body>
