@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="последний" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Последний</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />день</w> 
+<w><ana lex="подписка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />подписки</w> 
+<w><ana lex="на" gr="PR=" />на</w> «
+<w><ana lex="единство" gr="S,n,inan=(acc,sg|nom,sg)" />Единство</w>» 28 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w>
+
+<w><ana lex="наш" gr="APRO=(dat,pl|ins,sg,m|ins,sg,n)" />Нашим</w> 
+<w><ana lex="читатель" gr="S,m,anim=dat,pl" />читателям</w>, 
+<w><ana lex="который" gr="APRO=(nom,pl|acc,pl,inan)" />которые</w> 
+<w><ana lex="еще" gr="ADV=" />еще</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="успевать" gr="V,intr=praet,pl,indic,pf" />успели</w> 
+<w><ana lex="подписываться" gr="V,intr=inf,pf" />подписаться</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="районный" gr="A=acc,sg,plen,f" />районную</w> 
+<w><ana lex="газета" gr="S,f,inan=acc,sg" />газету</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="первый" gr="ANUM=(acc,sg,n|nom,sg,n)" />первое</w> 
+<w><ana lex="полугодие" gr="S,n,inan=(acc,sg|nom,sg)" />полугодие</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>, 
+<w><ana lex="надо" gr="ADV,praed=" />надо</w> 
+<w><ana lex="поторопиться" gr="V,pf,intr=inf" />поторопиться</w>. 
+</se>
+<se>
+<w><ana lex="последний" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Последний</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />день</w> 
+<w><ana lex="подписка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />подписки</w> – 28 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w>. «
+</se>
+<se>
+<w><ana lex="единство" gr="S,n,inan=(acc,sg|nom,sg)" />Единство</w>» 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="еженедельный" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />еженедельное</w> 
+<w><ana lex="приложение" gr="S,n,inan=(acc,sg|nom,sg)" />приложение</w> «
+<w><ana lex="у" gr="PR=" />У</w> 
+<w><ana lex="газетный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />газетного</w> 
+<w><ana lex="киоск" gr="S,m,inan=gen,sg" />киоска</w>» 
+<w><ana lex="можно" gr="ADV,praed=" />можно</w> 
+<w><ana lex="оформлять" gr="V,tran=inf,pf" />оформить</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="почтамт" gr="S,m,inan=abl,sg" />почтамте</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="отделение" gr="S,n,inan=abl,pl" />отделениях</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w>, 
+<w><ana lex="у" gr="PR=" />у</w> 
+<w><ana lex="почтальон" gr="S,m,anim=(acc,pl|gen,pl)" />почтальонов</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="наш" gr="APRO=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f)" />нашей</w> 
+<w><ana lex="редакция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />редакции</w>.
+
+<w><ana lex="поторопиться" gr="V,pf,intr=(inpraes,pl,indic,2p|pl,imper,2p)" />Поторопитесь</w>!
+
+<w><ana lex="справка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />Справки</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="телефон" gr="S,m,inan=dat,pl" />телефонам</w>: 8-918-4589539, 8-903-4564773.]
+
+</se>
+</body></html>

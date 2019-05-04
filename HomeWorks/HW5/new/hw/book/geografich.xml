@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[95 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="июнь" gr="S,m,inan=abl,sg" />июне</w> 1924 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf" />был</w> 
+<w><ana lex="образованный" gr="A=sg,brev,m" />образован</w> 
+<w><ana lex="павловский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Павловский</w> 
+<w><ana lex="район" gr="S,m,inan=(acc,sg|nom,sg)" />район</w>. 
+</se>
+<se>
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="тот" gr="APRO=(abl,sg,m|abl,sg,n)" />том</w> 
+<w><ana lex="же" gr="PART=" />же</w> 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w> 
+<w><ana lex="основывать" gr="V=praet,pl,partcp,brev,pf,pass" />основаны</w> 
+<w><ana lex="населенный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />населенные</w> 
+<w><ana lex="пункт" gr="S,m,inan=(acc,pl|nom,pl)" />пункты</w>, 
+<w><ana lex="получать" gr="V,tran=(praet,nom,pl,partcp,plen,pf,act|praet,acc,pl,partcp,plen,pf,act,inan)" />получившие</w> 
+<w><ana lex="впоследствии" gr="ADV=" />впоследствии</w> 
+<w><ana lex="название" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />названия</w> 
+<w><ana lex="хутор" gr="S,m,inan=(acc,sg|nom,sg)" />хутор</w> 
+<w><ana lex="ленинодар" qual="bastard" gr="S,m,inan=(acc,sg|nom,sg)" />Ленинодар</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="поселок" gr="S,m,inan=(acc,sg|nom,sg)" />поселок</w> 
+<w><ana lex="октябрьский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Октябрьский</w> 
+<w><ana lex="среднечелбасский" qual="bastard" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Среднечелбасского</w> 
+<w><ana lex="сельский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />сельского</w> 
+<w><ana lex="поселение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />поселения</w>. 225 
+</se>
+<se>
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> – 
+<w><ana lex="станица" gr="S,f,inan=dat,pl" />станицам</w> 
+<w><ana lex="незамаевская" qual="bastard" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Незамаевской</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="старолеушковский" qual="bastard" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Старолеушковской</w>, 
+<w><ana lex="возникать" gr="V,intr=(praet,dat,pl,partcp,plen,pf,act|praet,ins,sg,partcp,plen,m,pf,act|praet,ins,sg,partcp,plen,n,pf,act)" />возникшим</w> 
+<w><ana lex="как" gr="CONJ=" />как</w> 
+<w><ana lex="куренной" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />куренные</w> 
+<w><ana lex="поселение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />поселения</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="число" gr="S,n,inan=abl,sg" />числе</w> 
+<w><ana lex="первый" gr="ANUM=(abl,pl|gen,pl|acc,pl,anim)" />первых</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="кубань" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Кубани</w>. 185 
+</se>
+<se>
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> – 
+<w><ana lex="хутор" gr="S,m,inan=dat,sg" />хутору</w> 
+<w><ana lex="бальчанский" qual="bastard" gr="S,famn,m,anim=dat,sg" />Бальчанскому</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="станица" gr="S,f,inan=(abl,sg|dat,sg)" />станице</w> 
+<w><ana lex="новопластуновская" qual="bastard" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Новопластуновской</w>. 105 
+</se>
+<se>
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="хутор" gr="S,m,inan=(acc,sg|nom,sg)" />хутор</w> 
+<w><ana lex="сосыкский" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Сосыкский</w> 
+<w><ana lex="преобразовывать" gr="V=praet,sg,partcp,brev,m,pf,pass" />преобразован</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="станица" gr="S,f,inan=acc,sg" />станицу</w> 
+<w><ana lex="атаманский" gr="A=acc,sg,plen,f" />Атаманскую</w>. 
+</se>
+<se>
+<w><ana lex="поселок" gr="S,m,inan=dat,sg" />Поселку</w> 
+<w><ana lex="северный" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Северному</w> 
+<w><ana lex="исполняться" gr="V,intr=inpraes,sg,indic,3p,ipf" />исполняется</w> 85 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>., 
+<w><ana lex="с" gr="PR=" />С</w>. 
+<w><ana lex="береста" gr="S,f,inan=gen,pl" />Берест</w>.]
+
+</se>
+</body></html>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="товарищеский" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />товарищеские</w> 
+<w><ana lex="игра" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />игры</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="мини-футбол" gr="S,m,inan=dat,sg" />мини-футболу</w> 
+<w><ana lex="среди" gr="PR=" />среди</w> 
+<w><ana lex="юноша" gr="S,m,anim=(acc,pl|gen,pl|ins,sg)" />юношей</w> 2007-2008 
+<w>гг</w>. 
+<w><ana lex="р" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />р</w>., 
+<w><ana lex="с" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />с</w> 9.00. 7-
+</se>
+<se>
+<w><ana lex="й" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />й</w> 
+<w><ana lex="тур" gr="S,m,inan=(acc,sg|nom,sg)" />тур</w> 
+<w><ana lex="чемпионат" gr="S,m,inan=gen,sg" />чемпионата</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="мини-футбол" gr="S,m,inan=dat,sg" />мини-футболу</w>, 
+<w><ana lex="с" gr="PR=" />с</w> 14.00., 3-5 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="рождественский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />рождественский</w> 
+<w><ana lex="турнир" gr="S,m,inan=(acc,sg|nom,sg)" />турнир</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="мини-футбол" gr="S,m,inan=dat,sg" />мини-футболу</w>, 
+<w><ana lex="с" gr="PR=" />с</w> 9.00., 4-9 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="рождественский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />рождественский</w> 
+<w><ana lex="турнир" gr="S,m,inan=(acc,sg|nom,sg)" />турнир</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="мини-футбол" gr="S,m,inan=dat,sg" />мини-футболу</w> 
+<w><ana lex="среди" gr="PR=" />среди</w> 
+<w><ana lex="юноша" gr="S,m,anim=(acc,pl|gen,pl|ins,sg)" />юношей</w> 2007-2008 
+<w>гг</w>. 
+<w><ana lex="р" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />р</w>., 
+<w><ana lex="участвовать" gr="V,ipf,intr=inpraes,pl,indic,3p" />участвуют</w> 
+<w><ana lex="команда" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />команды</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Павловской</w> 
+<w><ana lex="детский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />детской</w> 
+<w><ana lex="спортивный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />спортивной</w> 
+<w><ana lex="школа" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />школы</w>, 
+<w><ana lex="с" gr="PR=" />с</w> 9.00., 
+<w><ana lex="приглашать" gr="V=(inpraes,pl,indic,1p,ipf,tran|inpraes,sg,partcp,brev,m,ipf,pass,tran)" />Приглашаем</w> 
+<w><ana lex="зритель" gr="S,m,anim=(acc,pl|gen,pl)" />зрителей</w> 
+<w><ana lex="посещать" gr="V,tran=inf,pf" />посетить</w> 
+<w><ana lex="этот" gr="APRO=(nom,pl|acc,pl,inan)" />эти</w> 
+<w><ana lex="соревнование" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />соревнования</w>!]
+
+</se>
+</body></html>

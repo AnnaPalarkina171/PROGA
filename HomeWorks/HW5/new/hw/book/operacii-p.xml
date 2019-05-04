@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[   
+<w><ana lex="сотрудник" gr="S,m,anim=nom,pl" />Сотрудники</w> 
+<w><ana lex="отдел" gr="S,m,inan=gen,sg" />Отдела</w> 
+<w><ana lex="мвд" gr="S,abbr,sg,n,inan=(abl|acc|dat|gen|ins|nom)" />МВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="преддверие" gr="S,n,inan=abl,sg" />преддверии</w> 
+<w><ana lex="новогодний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />Новогодних</w> 
+<w><ana lex="праздник" gr="S,m,inan=gen,pl" />праздников</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="территория" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />территории</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w>  
+<w><ana lex="с" gr="PR=" />с</w> 03.12.2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="по" gr="PR=" />по</w> 27.12.2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="провожать" gr="V=inpraes,pl,indic,3p,pf" />проводят</w> 
+<w><ana lex="операция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />операции</w> «
+<w><ana lex="пиротехника" gr="S,f,inan=nom,sg" />Пиротехника</w>» 
+<w><ana lex="и" gr="CONJ=" />и</w> «
+<w><ana lex="лес" gr="S,m,inan=(acc,sg|nom,sg)" />Лес</w>», 
+<w><ana lex="направлять" gr="V,tran=(praet,acc,pl,partcp,plen,pf,pass,inan|praet,nom,pl,partcp,plen,pf,pass)" />направленные</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="выявление" gr="S,n,inan=(acc,sg|nom,sg)" />выявление</w> 
+<w><ana lex="незаконный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />незаконной</w> 
+<w><ana lex="вырубка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />вырубки</w> 
+<w><ana lex="хвойный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />хвойных</w> 
+<w><ana lex="дерево" gr="S,n,inan=gen,pl" />деревьев</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="выявление" gr="S,n,inan=(acc,sg|nom,sg)" />выявление</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="изъятие" gr="S,n,inan=(acc,sg|nom,sg)" />изъятие</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="оборот" gr="S,m,inan=gen,sg" />оборота</w> 
+<w><ana lex="пиротехнический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пиротехнических</w> 
+<w><ana lex="изделие" gr="S,n,inan=gen,pl" />изделий</w>, 
+<w><ana lex="незаконно" gr="ADV=" />незаконно</w> 
+<w><ana lex="ввозить" gr="V=(praet,abl,pl,partcp,plen,pf,pass|praet,acc,pl,partcp,plen,pf,pass,anim|praet,gen,pl,partcp,plen,pf,pass)" />ввезенных</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="территория" gr="S,f,inan=acc,sg" />территорию</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="проходить" gr="V,intr=(praet,abl,pl,partcp,plen,pf,act|praet,gen,pl,partcp,plen,pf,act|praet,acc,pl,partcp,plen,pf,act,anim)" />прошедших</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="устанавливать" gr="V,tran=(praet,abl,sg,partcp,plen,m,pf,pass|praet,abl,sg,partcp,plen,n,pf,pass)" />установленном</w> 
+<w><ana lex="законный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />законном</w> 
+<w><ana lex="порядок" gr="S,m,inan=abl,sg" />порядке</w> 
+<w><ana lex="сертификация" gr="S,f,inan=acc,sg" />сертификацию</w>, 
+<w><ana lex="представлять" gr="V,tran=(inpraes,abl,pl,partcp,plen,ipf,act|inpraes,gen,pl,partcp,plen,ipf,act|inpraes,acc,pl,partcp,plen,ipf,act,anim)" />представляющих</w> 
+<w><ana lex="повышенный" gr="A=acc,sg,plen,f" />повышенную</w> 
+<w><ana lex="опасность" gr="S,f,inan=(acc,sg|nom,sg)" />опасность</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="гражданин" gr="S,m,anim=(acc,pl|gen,pl)" />граждан</w>, 
+<w><ana lex="а" gr="CONJ=" />а</w> 
+<w><ana lex="также" gr="ADV=" />также</w> 
+<w><ana lex="прекращение" gr="S,n,inan=(acc,sg|nom,sg)" />прекращение</w> 
+<w><ana lex="деятельность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />деятельности</w> 
+<w><ana lex="юридический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />юридических</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="физический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />физических</w> 
+<w><ana lex="лицо" gr="S,n,inan=gen,pl" />лиц</w>, 
+<w><ana lex="заниматься" gr="V,intr=(inpraes,abl,pl,partcp,plen,ipf,act|inpraes,gen,pl,partcp,plen,ipf,act|inpraes,acc,pl,partcp,plen,ipf,act,anim)" />занимающихся</w> 
+<w><ana lex="незаконный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />незаконным</w> 
+<w><ana lex="оборот" gr="S,m,inan=ins,sg" />оборотом</w> 
+<w><ana lex="подобный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />подобной</w> 
+<w><ana lex="продукция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />продукции</w>., 
+<w><ana lex="вместе" gr="ADV=" />Вместе</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="то" gr="SPRO,sg,n,inan=ins" />тем</w> 
+<w><ana lex="особый" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />особое</w> 
+<w><ana lex="внимание" gr="S,n,inan=(acc,sg|nom,sg)" />внимание</w> 
+<w><ana lex="уделяться" gr="V,ipf,intr=inpraes,sg,indic,3p" />уделяется</w> 
+<w><ana lex="изъятие" gr="S,n,inan=dat,sg" />изъятию</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="незаконный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />незаконного</w> 
+<w><ana lex="оборот" gr="S,m,inan=gen,sg" />оборота</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="добровольный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />добровольной</w> 
+<w><ana lex="сдача" gr="S,f,inan=(abl,sg|dat,sg)" />сдаче</w> 
+<w><ana lex="огнестрельный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />огнестрельного</w> 
+<w><ana lex="оружие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />оружия</w>, 
+<w><ana lex="боеприпасы" gr="S,pl,inan=gen" />боеприпасов</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="пиротехнический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пиротехнических</w> 
+<w><ana lex="изделие" gr="S,n,inan=gen,pl" />изделий</w>, 
+<w><ana lex="который" gr="APRO=(nom,pl|acc,pl,inan)" />которые</w> 
+<w><ana lex="мочь" gr="V,ipf,intr=inpraes,pl,indic,3p" />могут</w> 
+<w><ana lex="использоваться" gr="V,ipf,intr=inf" />использоваться</w> 
+<w><ana lex="при" gr="PR=" />при</w> 
+<w><ana lex="изготовление" gr="S,n,inan=abl,sg" />изготовлении</w> 
+<w><ana lex="самовольный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />самовольных</w> 
+<w><ana lex="взрывной" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />взрывных</w> 
+<w><ana lex="устройство" gr="S,n,inan=gen,pl" />устройств</w>., 
+<w><ana lex="за" gr="PR=" />За</w> 
+<w><ana lex="незаконный" gr="A=acc,sg,plen,f" />незаконную</w> 
+<w><ana lex="вырубка" gr="S,f,inan=acc,sg" />вырубку</w>, 
+<w><ana lex="сбыт" gr="S,m,inan=(acc,sg|nom,sg)" />сбыт</w>, 
+<w><ana lex="транспортировка" gr="S,f,inan=acc,sg" />транспортировку</w> 
+<w><ana lex="без" gr="PR=" />без</w> 
+<w><ana lex="документ" gr="S,m,inan=gen,pl" />документов</w> 
+<w><ana lex="новогодний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />новогодних</w> 
+<w><ana lex="ель" gr="S,f,inan=gen,pl" />елей</w>, 
+<w><ana lex="законодательство" gr="S,n,inan=ins,sg" />законодательством</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="гражданин" gr="S,m,anim=(acc,pl|gen,pl)" />граждан</w> 
+<w><ana lex="предусматривать" gr="V,tran=praet,sg,partcp,brev,f,pf,pass" />предусмотрена</w> 
+<w><ana lex="административный" gr="A=nom,sg,plen,f" />административная</w> 
+<w><ana lex="ответственность" gr="S,f,inan=(acc,sg|nom,sg)" />ответственность</w>, 
+<w><ana lex="предусматривать" gr="V,tran=praet,nom,sg,partcp,plen,f,pf,pass" />предусмотренная</w> 
+<w><ana lex="ст" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ст</w>. 8.28 
+<w><ana lex="коап" qual="bastard" gr="S,sg,m,inan=(abl|acc|dat|gen|ins|nom)" />КоАП</w> 
+<w><ana lex="рф" gr="S,abbr,geo,sg,f,inan=(abl|acc|dat|gen|ins|nom)" />РФ</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="случай" gr="S,m,inan=abl,sg" />случае</w> 
+<w><ana lex="если" gr="CONJ=" />если</w> 
+<w><ana lex="незаконно" gr="ADV=" />незаконно</w> 
+<w><ana lex="срубать" gr="V,tran=praet,sg,partcp,brev,n,pf,pass" />срублено</w> 
+<w><ana lex="несколько" gr="NUM=(|nom|acc,inan)" />несколько</w> 
+<w><ana lex="дерево" gr="S,n,inan=gen,pl" />деревьев</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="сумма" gr="S,f,inan=nom,sg" />сумма</w> 
+<w><ana lex="ущерб" gr="S,m,inan=gen,sg" />ущерба</w> 
+<w><ana lex="составлять" gr="V,tran=inpraes,sg,indic,3p,ipf" />составляет</w> 
+<w><ana lex="много" gr="ADV=comp" />более</w> 5000 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>, 
+<w><ana lex="наступать" gr="V,intr=inpraes,sg,indic,3p,ipf" />наступает</w> 
+<w><ana lex="уголовный" gr="A=nom,sg,plen,f" />уголовная</w> 
+<w><ana lex="ответственность" gr="S,f,inan=(acc,sg|nom,sg)" />ответственность</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="соответствие" gr="S,n,inan=abl,sg" />соответствии</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="уголовный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />Уголовным</w> 
+<w><ana lex="кодекс" gr="S,m,inan=ins,sg" />кодексом</w> 
+<w><ana lex="рф" gr="S,abbr,geo,sg,f,inan=(abl|acc|dat|gen|ins|nom)" />РФ</w>, 
+<w><ana lex="предусматривать" gr="V,tran=praet,nom,sg,partcp,plen,f,pf,pass" />предусмотренная</w> 
+<w><ana lex="ст" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ст</w>. 260 
+<w><ana lex="ук" gr="S,m,inan=(acc,sg|nom,sg)" />УК</w> 
+<w><ana lex="рф" gr="S,abbr,geo,sg,f,inan=(abl|acc|dat|gen|ins|nom)" />РФ</w>.  
+</se>
+<se>
+<w><ana lex="при" gr="PR=" />При</w> 
+<w><ana lex="отсутствие" gr="S,n,inan=abl,sg" />отсутствии</w> 
+<w><ana lex="товарный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />товарного</w> 
+<w><ana lex="чека" gr="S,f,inan=nom,sg" />чека</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="перевозить" gr="V=(inpraes,acc,sg,partcp,plen,n,ipf,pass,tran|inpraes,nom,sg,partcp,plen,n,ipf,pass,tran)" />перевозимое</w> 
+<w><ana lex="дерево" gr="S,n,inan=(acc,sg|nom,sg)" />дерево</w>, 
+<w><ana lex="свой" gr="APRO=acc,sg,f" />свою</w> 
+<w><ana lex="правота" gr="S,sg,f,inan=acc" />правоту</w> 
+<w><ana lex="автолюбитель" gr="S,m,anim=nom,sg" />автолюбитель</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,sg,indic,3p" />будет</w> 
+<w><ana lex="доказывать" gr="V=inf,ipf,tran" />доказывать</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w>., 
+<w><ana lex="уважаемый" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />Уважаемые</w> 
+<w><ana lex="житель" gr="S,m,anim=nom,pl" />жители</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w>, 
+<w><ana lex="быть" gr="V,intr=pl,imper,2p" />будьте</w> 
+<w><ana lex="бдительный" gr="A=pl,brev" />бдительны</w>! 
+</se>
+<se>
+<w><ana lex="при" gr="PR=" />При</w> 
+<w><ana lex="обнаружение" gr="S,n,inan=abl,sg" />обнаружении</w> 
+<w><ana lex="факт" gr="S,m,inan=gen,pl" />фактов</w> 
+<w><ana lex="незаконный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />незаконной</w> 
+<w><ana lex="реализация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />реализации</w> 
+<w><ana lex="пиротехнический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пиротехнических</w> 
+<w><ana lex="изделие" gr="S,n,inan=gen,pl" />изделий</w>, 
+<w><ana lex="оружие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />оружия</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="боеприпасы" gr="S,pl,inan=gen" />боеприпасов</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="он" gr="SPRO,sg,3p,m=dat" />нему</w> 
+<w><ana lex="просьба" gr="S,f,inan=nom,sg" />просьба</w> 
+<w><ana lex="сообщать" gr="V,tran=inf,pf" />сообщить</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="отдел" gr="S,m,inan=(acc,sg|nom,sg)" />Отдел</w> 
+<w><ana lex="мвд" gr="S,abbr,sg,n,inan=(abl|acc|dat|gen|ins|nom)" />МВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="телефон" gr="S,m,inan=dat,pl" />телефонам</w> 8(86191)5-25-68, «102» – 
+<w>ДЧ</w>, 8(86191)5-48-12-
+<w><ana lex="гиаз" qual="bastard" gr="S,m,inan=(acc,sg|nom,sg)" />ГИАЗ</w>.,  , 
+<w><ana lex="и" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />И</w>. 
+<w><ana lex="степаненко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Степаненко</w> 
+<w><ana lex="инспектор" gr="S,m,anim=nom,sg" />инспектор</w> 
+<w><ana lex="гиаз" qual="bastard" gr="S,m,inan=(acc,sg|nom,sg)" />ГИАЗ</w> 
+<w><ana lex="омвд" qual="bastard" gr="S,sg,m,inan=(abl|acc|dat|gen|ins|nom)" />ОМВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w>,  ,  ,  ,  ,  ,  ]
+
+</se>
+</body></html>

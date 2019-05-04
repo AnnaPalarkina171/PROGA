@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="избирать" gr="V=praet,sg,partcp,brev,m,pf,pass" />Избран</w> 
+<w><ana lex="новый" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />новый</w> 
+<w><ana lex="атаман" gr="S,m,anim=nom,sg" />атаман</w>, 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="среднечелбасский" qual="bastard" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Среднечелбасском</w> 
+<w><ana lex="хуторской" gr="A,plen=(abl,sg,m|abl,sg,n)" />хуторском</w> 
+<w><ana lex="казачий" gr="A,plen=(abl,sg,m|abl,sg,n)" />казачьем</w> 
+<w><ana lex="общество" gr="S,n,inan=abl,sg" />обществе</w> 
+<w><ana lex="проходить" gr="V,intr=praet,sg,indic,m,pf" />прошел</w> 
+<w><ana lex="отчетный" gr="A=sg,brev,n" />отчетно</w>-
+<w><ana lex="выборный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />выборный</w> 
+<w><ana lex="сбор" gr="S,m,inan=(acc,sg|nom,sg)" />сбор</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="его" gr="APRO=(abl,pl|dat,pl|gen,pl|ins,pl|nom,pl|nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n|acc,sg,n|nom,sg,n|abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|abl,sg,m|abl,sg,n|dat,sg,m|dat,sg,n|acc,sg,f|acc,pl,inan|acc,sg,m,inan|nom,sg,m|ins,sg,m|ins,sg,n|acc,pl,anim|abl,pl,n|acc,pl,n|dat,pl,n|gen,pl,n|ins,pl,n|nom,pl,n|abl,pl,m|acc,pl,m|acc,sg,m|dat,pl,m)" />его</w> 
+<w><ana lex="работа" gr="S,f,inan=(abl,sg|dat,sg)" />работе</w> 
+<w><ana lex="участвовать" gr="V,ipf,intr=praet,pl,indic" />участвовали</w> 
+<w><ana lex="более" gr="ADV=" />более</w> 60 
+<w><ana lex="казак" gr="S,m,anim=(acc,pl|gen,pl)" />казаков</w>. 
+</se>
+<se>
+<w><ana lex="вести" gr="V,ipf,tran=praet,sg,indic,m" />Вел</w> 
+<w><ana lex="сбор" gr="S,m,inan=(acc,sg|nom,sg)" />сбор</w> 
+<w><ana lex="районный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />районный</w> 
+<w><ana lex="атаман" gr="S,m,anim=nom,sg" />атаман</w> 
+<w><ana lex="николай" gr="S,persn,m,anim=nom,sg" />Николай</w> 
+<w><ana lex="смирнов" gr="S,famn,m,anim=nom,sg" />Смирнов</w>. 
+</se>
+<se>
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf" />Был</w> 
+<w><ana lex="заслушивать" gr="V,tran=praet,sg,partcp,brev,m,pf,pass" />заслушан</w> 
+<w><ana lex="отчет" gr="S,m,inan=(acc,sg|nom,sg)" />отчет</w> 
+<w><ana lex="хуторской" gr="A,plen=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />хуторского</w> 
+<w><ana lex="атаман" gr="S,m,anim=(acc,sg|gen,sg)" />атамана</w> 
+<w><ana lex="петр" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Петра</w> 
+<w><ana lex="головко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Головко</w>, 
+<w><ana lex="который" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />который</w> 
+<w><ana lex="уходить" gr="V,intr=praet,sg,indic,m,pf" />ушел</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="пост" gr="S,m,inan=gen,sg" />поста</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="собственный" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />собственному</w> 
+<w><ana lex="желание" gr="S,n,inan=dat,sg" />желанию</w>. 
+</se>
+<se>
+<w><ana lex="он" gr="SPRO,sg,3p,m=(acc|gen)" />Его</w> 
+<w><ana lex="преемник" gr="S,m,anim=ins,sg" />преемником</w> 
+<w><ana lex="избирать" gr="V=praet,pl,indic,pf" />избрали</w> 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />первого</w> 
+<w><ana lex="заместитель" gr="S,m,anim=(acc,sg|gen,sg)" />заместителя</w> 
+<w><ana lex="владимир" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Владимира</w> 
+<w><ana lex="волынко" qual="bastard" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Волынко</w>., 
+<w><ana lex="е" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Е</w>. 
+<w><ana lex="пустовой" qual="bastard" gr="A=nom,sg,plen,f" />Пустовая</w>, , 
+<w><ana lex="помощник" gr="S,m,anim=nom,sg" />помощник</w> 
+<w><ana lex="атаман" gr="S,m,anim=(acc,sg|gen,sg)" />атамана</w> 
+<w><ana lex="ейский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Ейского</w> 
+<w><ana lex="отдел" gr="S,m,inan=gen,sg" />отдела</w> 
+<w>ККВ</w>.]
+
+</se>
+</body></html>

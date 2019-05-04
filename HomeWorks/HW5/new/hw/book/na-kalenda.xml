@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="первый" gr="ANUM=nom,sg,f" />Первая</w> 
+<w><ana lex="декада" gr="S,f,inan=nom,sg" />декада</w> 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 
+<w><ana lex="приносить" gr="V=praet,sg,indic,f,pf" />принесла</w> 
+<w><ana lex="неустойчивый" gr="A=acc,sg,plen,f" />неустойчивую</w> 
+<w><ana lex="погода" gr="S,f,inan=acc,sg" />погоду</w>. 
+</se>
+<se>
+<w><ana lex="то" gr="CONJ=" />То</w> 
+<w><ana lex="по-осеннему" gr="ADV=" />по-осеннему</w> 
+<w><ana lex="тепло" gr="ADV=" />тепло</w>, 
+<w><ana lex="то" gr="CONJ=" />то</w> 
+<w><ana lex="прохладно" gr="ADV=" />прохладно</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="заморозок" gr="S,m,inan=(acc,pl|nom,pl)" />заморозки</w>. , 
+<w><ana lex="средний" gr="A=nom,sg,plen,f" />Средняя</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="декада" gr="S,f,inan=acc,sg" />декаду</w> 
+<w><ana lex="температура" gr="S,f,inan=nom,sg" />температура</w> 
+<w><ana lex="воздух" gr="S,m,inan=gen,sg" />воздуха</w> 
+<w><ana lex="оказываться" gr="V,intr=praet,sg,indic,f,pf" />оказалась</w> 
+<w><ana lex="на" gr="PR=" />на</w> 0,6 
+<w><ana lex="градус" gr="S,m,inan=gen,sg" />градуса</w> 
+<w><ana lex="высоко" gr="ADV=comp" />выше</w> 
+<w><ana lex="многолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />многолетних</w> 
+<w><ana lex="значение" gr="S,n,inan=gen,pl" />значений</w>. 
+</se>
+<se>
+<w><ana lex="день" gr="S,m,inan=ins,sg" />Днем</w> 
+<w><ana lex="воздух" gr="S,m,inan=(acc,sg|nom,sg)" />воздух</w> 
+<w><ana lex="прогреваться" gr="V,intr=praet,sg,indic,m,ipf" />прогревался</w> 
+<w><ana lex="от" gr="PR=" />от</w> 0 
+<w><ana lex="до" gr="PR=" />до</w> +4 
+<w><ana lex="градус" gr="S,m,inan=gen,pl" />градусов</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="отдельный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />отдельные</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,pl|nom,pl)" />дни</w> 
+<w><ana lex="доходить" gr="V,intr=(praet,sg,indic,n,ipf|praet,sg,indic,n,pf)" />доходило</w> 
+<w><ana lex="до" gr="PR=" />до</w> +7. 
+<w><ana lex="ночь" gr="S,f,inan=ins,sg" />Ночью</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf" />было</w> 
+<w><ana lex="от" gr="PR=" />от</w> +2 
+<w><ana lex="до" gr="PR=" />до</w> -2 (
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="начало" gr="S,n,inan=abl,sg" />начале</w> 
+<w><ana lex="декада" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />декады</w> 
+<w><ana lex="стоять" gr="V,ipf,intr=praet,sg,indic,m" />стоял</w> 
+<w><ana lex="мороз" gr="S,m,inan=(acc,sg|nom,sg)" />мороз</w> 
+<w><ana lex="в" gr="PR=" />в</w> -4 
+<w><ana lex="градус" gr="S,m,inan=gen,sg" />градуса</w>)., 
+<w><ana lex="осадок" gr="S,m,inan=(acc,pl|nom,pl)" />Осадки</w> 
+<w><ana lex="выпадать" gr="V,intr=praet,pl,indic,pf" />выпали</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="вид" gr="S,m,inan=abl,sg" />виде</w> 
+<w><ana lex="дождь" gr="S,m,inan=gen,sg" />дождя</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="мокрый" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />мокрого</w> 
+<w><ana lex="снег" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />снега</w>. 
+</se>
+<se>
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="первый" gr="ANUM=(nom,pl|acc,pl,inan)" />первые</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,pl|nom,pl)" />дни</w> 
+<w><ana lex="зима" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />зимы</w> 
+<w><ana lex="наблюдаться" gr="V,ipf,intr=praet,sg,indic,m" />наблюдался</w> 
+<w><ana lex="гололед" gr="S,m,inan=(acc,sg|nom,sg)" />гололед</w>. 
+</se>
+<se>
+<w><ana lex="к" gr="PR=" />К</w> 
+<w><ana lex="середина" gr="S,f,inan=(abl,sg|dat,sg)" />середине</w> 
+<w><ana lex="декада" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />декады</w> 
+<w><ana lex="снежный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />снежный</w> 
+<w><ana lex="покров" gr="S,m,inan=(acc,sg|nom,sg)" />покров</w> 
+<w><ana lex="растаивать" gr="V,intr=praet,sg,indic,m,pf" />растаял</w>. 
+</se>
+<se>
+<w><ana lex="сумма" gr="S,f,inan=nom,sg" />Сумма</w> 
+<w><ana lex="осадки" gr="S,pl,inan=gen" />осадков</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="метеостанция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />метеостанции</w> 
+<w><ana lex="составлять" gr="V,tran=praet,sg,indic,f,pf" />составила</w> 6,2 
+<w><ana lex="мм" gr="S,m,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />мм</w>, 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w> – 3-11 
+<w><ana lex="мм" gr="S,m,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />мм</w> (
+<w><ana lex="при" gr="PR=" />при</w> 
+<w><ana lex="норма" gr="S,f,inan=(abl,sg|dat,sg)" />норме</w> 21 
+<w><ana lex="мм" gr="S,m,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />мм</w>). 
+</se>
+<se>
+<w><ana lex="агрометеоусловия" qual="bastard" gr="S,pl,inan=(acc|nom)" />Агрометеоусловия</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="зимовка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />зимовки</w> 
+<w><ana lex="озимые" gr="S,pl,inan=(abl|gen)" />озимых</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="другой" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />других</w> 
+<w><ana lex="сельхозкультура" qual="bastard" gr="S,f,inan=gen,pl" />сельхозкультур</w> – 
+<w><ana lex="удовлетворительный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />удовлетворительные</w>. 
+</se>
+<se>
+<w><ana lex="минимальный" gr="A=nom,sg,plen,f" />Минимальная</w> 
+<w><ana lex="температура" gr="S,f,inan=nom,sg" />температура</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="узел" gr="S,m,inan=abl,sg" />узле</w> 
+<w><ana lex="кущение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />кущения</w> 
+<w><ana lex="озимый" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />озимой</w> 
+<w><ana lex="пшеница" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />пшеницы</w> 
+<w><ana lex="составлять" gr="V,tran=praet,sg,indic,f,pf" />составила</w> + 0,4 
+<w><ana lex="градус" gr="S,m,inan=gen,sg" />градуса</w>., 
+<w><ana lex="сравнимый" gr="A=sg,brev,m" />Сравним</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="прошлогодний" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />прошлогодним</w> 
+<w><ana lex="погодный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />погодным</w> 
+<w><ana lex="календарь" gr="S,m,inan=ins,sg" />календарем</w>. 
+</se>
+<se>
+<w><ana lex="тогда" gr="ADVPRO=" />Тогда</w> 
+<w><ana lex="с" gr="PR=" />с</w> 1-
+<w><ana lex="го" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />го</w> 
+<w><ana lex="по" gr="PR=" />по</w> 10 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf" />было</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="по-зимнему" gr="ADV=" />по-зимнему</w> 
+<w><ana lex="тепло" gr="ADV=" />тепло</w>. 
+</se>
+<se>
+<w><ana lex="температура" gr="S,f,inan=nom,sg" />Температура</w> 
+<w><ana lex="воздух" gr="S,m,inan=gen,sg" />воздуха</w> 
+<w><ana lex="на" gr="PR=" />на</w> 3,4 
+<w><ana lex="градус" gr="S,m,inan=gen,sg" />градуса</w> 
+<w><ana lex="превышать" gr="V=praet,sg,indic,f,pf" />превысила</w> 
+<w><ana lex="средний" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />средние</w> 
+<w><ana lex="многолетний" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />многолетние</w> 
+<w><ana lex="показатель" gr="S,m,inan=(acc,pl|nom,pl)" />показатели</w>. 
+</se>
+<se>
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="дневной" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />дневные</w> 
+<w><ana lex="час" gr="S,m,inan=(acc,pl|nom,pl)" />часы</w> 
+<w><ana lex="воздух" gr="S,m,inan=(acc,sg|nom,sg)" />воздух</w> 
+<w><ana lex="прогреваться" gr="V,intr=praet,sg,indic,m,ipf" />прогревался</w> 
+<w><ana lex="на" gr="PR=" />на</w> 1-12 
+<w><ana lex="градус" gr="S,m,inan=gen,pl" />градусов</w>, 
+<w><ana lex="ночь" gr="S,f,inan=ins,sg" />ночью</w> 
+<w><ana lex="фиксироваться" gr="V,intr=(praet,pl,indic,ipf|praet,pl,indic,pf)" />фиксировались</w> 
+<w><ana lex="заморозок" gr="S,m,inan=(acc,pl|nom,pl)" />заморозки</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="минус" gr="S,m,inan=(acc,sg|nom,sg)" />минус</w> 
+<w><ana lex="градус" gr="S,m,inan=(acc,sg|nom,sg)" />градус</w>. 
+</se>
+<se>
+<w><ana lex="тоже" gr="PART=" />Тоже</w> 
+<w><ana lex="проходить" gr="V,intr=praet,pl,indic,pf" />прошли</w> 
+<w><ana lex="дождь" gr="S,m,inan=(acc,pl|nom,pl)" />дожди</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="мокрый" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />мокрый</w> 
+<w><ana lex="снег" gr="S,m,inan=(acc,sg|nom,sg)" />снег</w>, 
+<w><ana lex="сумма" gr="S,f,inan=nom,sg" />сумма</w> 
+<w><ana lex="осадки" gr="S,pl,inan=gen" />осадков</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="метеостанция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />метеостанции</w> 
+<w><ana lex="составлять" gr="V,tran=praet,sg,indic,f,pf" />составила</w> 
+<w><ana lex="норма" gr="S,f,inan=acc,sg" />норму</w> 
+<w><ana lex="в" gr="PR=" />в</w> 21 
+<w><ana lex="мм" gr="S,m,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />мм</w>, 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w> –18-28 
+<w><ana lex="мм" gr="S,m,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />мм</w>., 
+<w><ana lex="о" gr="PR=" />О</w>. 
+<w><ana lex="маслов" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Маслова</w>, 
+<w><ana lex="начальник" gr="S,m,anim=nom,sg" />начальник</w> 
+<w><ana lex="метеостанция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />метеостанции</w> 
+<w><ana lex="сосык" qual="bastard" gr="S,geo,m,inan=gen,sg" />Сосыка</w>.]
+
+</se>
+</body></html>

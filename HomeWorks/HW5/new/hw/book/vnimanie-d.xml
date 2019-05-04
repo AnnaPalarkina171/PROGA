@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="рамка" gr="S,f,inan=abl,pl" />рамках</w> 
+<w><ana lex="мероприятие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />мероприятия</w> 
+<w><ana lex="усиливать" gr="V,tran=praet,sg,partcp,brev,m,pf,pass" />усилен</w> 
+<w><ana lex="контроль" gr="S,m,inan=(acc,sg|nom,sg)" />контроль</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="движение" gr="S,n,inan=ins,sg" />движением</w> 
+<w><ana lex="ребенок" gr="S,m,anim=(acc,pl|gen,pl)" />детей</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="дорога" gr="S,f,inan=dat,pl" />дорогам</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="улица" gr="S,f,inan=dat,pl" />улицам</w>., 
+<w><ana lex="несмотря" gr="ADV=" />Несмотря</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="принимать" gr="V=(inpraes,acc,pl,partcp,plen,ipf,pass,inan,tran|inpraes,nom,pl,partcp,plen,ipf,pass,tran)" />принимаемые</w> 
+<w><ana lex="профилактический" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />профилактические</w> 
+<w><ana lex="мера" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />меры</w>, 
+<w><ana lex="обстановка" gr="S,f,inan=nom,sg" />обстановка</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="детский" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />детским</w> 
+<w><ana lex="дорожно-транспортный" gr="A,plen=(dat,pl|ins,sg,m|ins,sg,n)" />дорожно-транспортным</w> 
+<w><ana lex="травматизм" gr="S,m,inan=ins,sg" />травматизмом</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="край" gr="S,m,inan=abl,sg" />крае</w> 
+<w><ana lex="оставаться" gr="V,intr=inpraes,sg,indic,3p,ipf" />остается</w> 
+<w><ana lex="напряженный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />напряженной</w>. 
+</se>
+<se>
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="итог" gr="S,m,inan=dat,pl" />итогам</w> 11 
+<w><ana lex="месяц" gr="S,m,inan=gen,pl" />месяцев</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="кубань" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Кубани</w> 
+<w><ana lex="зарегистрировать" gr="V,pf,tran=praet,sg,partcp,brev,n,pass" />зарегистрировано</w> 798 
+<w><ana lex="дтп" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ДТП</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="участие" gr="S,n,inan=ins,sg" />участием</w> 
+<w><ana lex="ребенок" gr="S,m,anim=(acc,pl|gen,pl)" />детей</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="возраст" gr="S,m,inan=abl,sg" />возрасте</w> 
+<w><ana lex="до" gr="PR=" />до</w> 16 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="они" gr="SPRO,pl=(abl|acc|gen)" />них</w> 
+<w><ana lex="пострадать" gr="V,pf,intr=praet,pl,indic" />пострадали</w> 836 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 32 
+<w><ana lex="погибать" gr="V,intr=praet,pl,indic,pf" />погибли</w>. 
+</se>
+<se>
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="вина" gr="S,f,inan=(abl,sg|dat,sg)" />вине</w> 
+<w><ana lex="юный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />юных</w> 
+<w><ana lex="участник" gr="S,m,anim=(acc,pl|gen,pl)" />участников</w> 
+<w><ana lex="дорожный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />дорожного</w> 
+<w><ana lex="движение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />движения</w> 
+<w><ana lex="происходить" gr="V,intr=praet,sg,indic,n,pf" />произошло</w> 190 
+<w><ana lex="дорожный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />дорожных</w> 
+<w><ana lex="происшествие" gr="S,n,inan=gen,pl" />происшествий</w>, 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="они" gr="SPRO,pl=(abl|acc|gen)" />них</w> 147 – 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="ребенок" gr="S,m,anim=ins,pl" />детьми</w>-
+<w><ana lex="пешеход" gr="S,m,anim=ins,pl" />пешеходами</w>, 13 – 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="водитель" gr="S,m,anim=ins,pl" />водителями</w> 
+<w><ana lex="мототранспорт" qual="bastard" gr="S,m,inan=gen,sg" />мототранспорта</w>, 26 – 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="велосипедист" gr="S,m,anim=ins,pl" />велосипедистами</w>, 2 – 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="водитель" gr="S,m,anim=ins,pl" />водителями</w> 
+<w><ana lex="автомобиль" gr="S,m,inan=gen,pl" />автомобилей</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="наш" gr="APRO=(abl,sg,m|abl,sg,n)" />нашем</w> 
+<w><ana lex="район" gr="S,m,inan=abl,sg" />районе</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="начало" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />начала</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="зарегистрировать" gr="V,pf,tran=praet,sg,partcp,brev,n,pass" />зарегистрировано</w> 16 
+<w><ana lex="авария" gr="S,f,inan=gen,pl" />аварий</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="участие" gr="S,n,inan=ins,sg" />участием</w> 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w>: 1 
+<w><ana lex="ребенок" gr="S,m,anim=nom,sg" />ребенок</w> 
+<w><ana lex="погибать" gr="V,intr=praet,sg,indic,m,pf" />погиб</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 18 
+<w><ana lex="получать" gr="V,tran=praet,pl,indic,pf" />получили</w> 
+<w><ana lex="травма" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />травмы</w> 
+<w><ana lex="различный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />различной</w> 
+<w><ana lex="степень" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />степени</w> 
+<w><ana lex="тяжесть" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />тяжести</w>. 
+</se>
+<se>
+<w><ana lex="виновник" gr="S,m,anim=ins,pl" />Виновниками</w> 
+<w><ana lex="дтп" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ДТП</w> 
+<w><ana lex="становиться" gr="V,intr=praet,sg,indic,m,pf" />стал</w> 
+<w><ana lex="пятнадцатилетний" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />пятнадцатилетний</w> 
+<w><ana lex="водитель" gr="S,m,anim=nom,sg" />водитель</w> 
+<w><ana lex="автомобиль" gr="S,m,inan=gen,sg" />автомобиля</w>, 
+<w><ana lex="семилетний" gr="A,plen=(acc,sg,m,inan|nom,sg,m)" />семилетний</w> 
+<w><ana lex="водитель" gr="S,m,anim=nom,sg" />водитель</w> 
+<w><ana lex="квадроцикл" gr="S,m,inan=gen,sg" />квадроцикла</w>, 
+<w><ana lex="двенадцатилетний" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />двенадцатилетний</w> 
+<w><ana lex="велосипедист" gr="S,m,anim=nom,sg" />велосипедист</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="пятнадцатилетний" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />пятнадцатилетний</w> 
+<w><ana lex="водитель" gr="S,m,anim=nom,sg" />водитель</w> 
+<w><ana lex="мопед" gr="S,m,inan=gen,sg" />мопеда</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="цель" gr="S,f,inan=abl,pl" />целях</w> 
+<w><ana lex="предупреждение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />предупреждения</w> 
+<w><ana lex="дтп" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ДТП</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="участие" gr="S,n,inan=ins,sg" />участием</w> 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="период" gr="S,m,inan=(acc,sg|nom,sg)" />период</w> 
+<w><ana lex="зимний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />зимних</w> 
+<w><ana lex="школьный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />школьных</w> 
+<w><ana lex="каникулы" gr="S,pl,inan=gen" />каникул</w>, 
+<w><ana lex="привитие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />привития</w> 
+<w><ana lex="ребенок" gr="S,m,anim=dat,pl" />детям</w> 
+<w><ana lex="навык" gr="S,m,inan=gen,pl" />навыков</w> 
+<w><ana lex="безопасный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />безопасного</w> 
+<w><ana lex="поведение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />поведения</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="дорога" gr="S,f,inan=(abl,sg|dat,sg)" />дороге</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="территория" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />территории</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w> 
+<w><ana lex="с" gr="PR=" />с</w> 24 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="по" gr="PR=" />по</w> 11 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="проводиться" gr="V,ipf,intr=inpraes,sg,indic,3p" />проводится</w> 5-
+<w><ana lex="й" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />й</w> 
+<w><ana lex="этап" gr="S,m,inan=(acc,sg|nom,sg)" />этап</w> 
+<w><ana lex="целевой" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />целевых</w> 
+<w><ana lex="профилактический" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />профилактических</w> 
+<w><ana lex="мероприятие" gr="S,n,inan=gen,pl" />мероприятий</w> «
+<w><ana lex="внимание" gr="S,n,inan=(acc,sg|nom,sg)" />Внимание</w> – 
+<w><ana lex="ребенок" gr="S,m,anim=nom,pl" />дети</w>!»., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="этот" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />этот</w> 
+<w><ana lex="период" gr="S,m,inan=(acc,sg|nom,sg)" />период</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,sg,indic,3p" />будет</w> 
+<w><ana lex="организовывать" gr="V=praet,sg,partcp,brev,m,pf,pass" />организован</w> 
+<w><ana lex="комплекс" gr="S,m,inan=(acc,sg|nom,sg)" />комплекс</w> 
+<w><ana lex="мера" gr="S,f,inan=gen,pl" />мер</w>, 
+<w><ana lex="направлять" gr="V,tran=(praet,abl,pl,partcp,plen,pf,pass|praet,acc,pl,partcp,plen,pf,pass,anim|praet,gen,pl,partcp,plen,pf,pass)" />направленных</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="обеспечение" gr="S,n,inan=(acc,sg|nom,sg)" />обеспечение</w> 
+<w><ana lex="безопасность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />безопасности</w> 
+<w><ana lex="дорожный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />дорожного</w> 
+<w><ana lex="движение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />движения</w>, 
+<w><ana lex="усиливать" gr="V,tran=praet,sg,partcp,brev,m,pf,pass" />усилен</w> 
+<w><ana lex="контроль" gr="S,m,inan=(acc,sg|nom,sg)" />контроль</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="соблюдение" gr="S,n,inan=ins,sg" />соблюдением</w> 
+<w><ana lex="водитель" gr="S,m,anim=ins,pl" />водителями</w> 
+<w><ana lex="правило" gr="S,n,inan=gen,pl" />правил</w> 
+<w><ana lex="перевозка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />перевозки</w> 
+<w><ana lex="ребенок" gr="S,m,anim=(acc,pl|gen,pl)" />детей</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="транспортный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />транспортных</w> 
+<w><ana lex="средство" gr="S,n,inan=abl,pl" />средствах</w>, 
+<w><ana lex="правило" gr="S,n,inan=gen,pl" />Правил</w> 
+<w><ana lex="дорожный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />дорожного</w> 
+<w><ana lex="движение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />движения</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="зона" gr="S,f,inan=abl,pl" />зонах</w> 
+<w><ana lex="пешеходный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пешеходных</w> 
+<w><ana lex="переход" gr="S,m,inan=gen,pl" />переходов</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="вблизи" gr="PR=" />вблизи</w> 
+<w><ana lex="место" gr="S,n,inan=gen,pl" />мест</w> 
+<w><ana lex="массовый" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />массового</w> 
+<w><ana lex="пребывание" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пребывания</w> 
+<w><ana lex="ребенок" gr="S,m,anim=(acc,pl|gen,pl)" />детей</w>., 
+<w><ana lex="о" gr="PR=" />О</w>. 
+<w><ana lex="бондаренко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Бондаренко</w>,, 
+<w><ana lex="начальник" gr="S,m,anim=nom,sg" />начальник</w> 
+<w><ana lex="огибдд" qual="bastard" gr="S,persn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ОГИБДД</w> 
+<w><ana lex="омвд" qual="bastard" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ОМВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w>.]
+
+</se>
+</body></html>

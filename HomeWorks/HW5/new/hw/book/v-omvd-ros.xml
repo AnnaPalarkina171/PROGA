@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="итог" gr="S,m,inan=dat,pl" />итогам</w> 
+<w><ana lex="проверка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />проверки</w> 
+<w><ana lex="госуслуга" qual="bastard" gr="S,f,inan=gen,pl" />госуслуг</w> 
+<w><ana lex="работа" gr="S,f,inan=nom,sg" />работа</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w> 
+<w><ana lex="оценивать" gr="V,tran=praet,sg,partcp,brev,f,pf,pass" />оценена</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="положительный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />положительной</w> 
+<w><ana lex="сторона" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />стороны</w>., 
+<w><ana lex="александр" gr="S,persn,m,anim=nom,sg" />Александр</w> 
+<w><ana lex="батраков" gr="S,famn,m,anim=nom,sg" />Батраков</w> 
+<w><ana lex="оценивать" gr="V,tran=praet,sg,indic,m,pf" />оценил</w> 
+<w><ana lex="работа" gr="S,f,inan=acc,sg" />работу</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w>, 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="рамка" gr="S,f,inan=abl,pl" />рамках</w> 
+<w><ana lex="общественный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />общественного</w> 
+<w><ana lex="контроль" gr="S,m,inan=gen,sg" />контроля</w> 
+<w><ana lex="заместитель" gr="S,m,anim=nom,sg" />заместитель</w> 
+<w><ana lex="председатель" gr="S,m,anim=(acc,sg|gen,sg)" />председателя</w> 
+<w><ana lex="общественный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Общественного</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="при" gr="PR=" />при</w> 
+<w><ana lex="отдел" gr="S,m,inan=abl,sg" />Отделе</w> 
+<w><ana lex="мвд" gr="S,abbr,sg,n,inan=(abl|acc|dat|gen|ins|nom)" />МВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w> 
+<w><ana lex="александр" gr="S,persn,m,anim=nom,sg" />Александр</w> 
+<w><ana lex="батраков" gr="S,famn,m,anim=nom,sg" />Батраков</w> 
+<w><ana lex="оценивать" gr="V,tran=praet,sg,indic,m,pf" />оценил</w> 
+<w><ana lex="работа" gr="S,f,inan=acc,sg" />работу</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w>, 
+<w><ana lex="ответственный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />ответственных</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="предоставление" gr="S,n,inan=(acc,sg|nom,sg)" />предоставление</w> 
+<w><ana lex="государственный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />государственной</w> 
+<w><ana lex="услуга" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />услуги</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="получение" gr="S,n,inan=dat,sg" />получению</w> 
+<w><ana lex="справка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />справки</w> 
+<w><ana lex="об" gr="PR=" />об</w> 
+<w><ana lex="отсутствие" gr="S,n,inan=abl,sg" />отсутствии</w> (
+<w><ana lex="наличие" gr="S,n,inan=abl,sg" />наличии</w>) 
+<w><ana lex="судимость" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />судимости</w>., 
+<w><ana lex="общественник" gr="S,m,anim=nom,sg" />Общественник</w> 
+<w><ana lex="оценивать" gr="V,tran=praet,sg,indic,m,pf" />оценил</w> 
+<w><ana lex="условие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />условия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="который" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />которых</w> 
+<w><ana lex="гражданин" gr="S,m,anim=dat,pl" />гражданам</w> 
+<w><ana lex="предоставлять" gr="V,tran=inpraes,pl,indic,3p,ipf" />предоставляют</w> 
+<w><ana lex="данный" gr="A,plen=(nom,pl|acc,pl,inan)" />данные</w> 
+<w><ana lex="государственный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />государственные</w> 
+<w><ana lex="услуга" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />услуги</w>. 
+</se>
+<se>
+<w><ana lex="проверять" gr="V,tran=praet,sg,indic,m,pf" />Проверил</w> 
+<w><ana lex="актуальность" gr="S,f,inan=(acc,sg|nom,sg)" />актуальность</w> 
+<w><ana lex="информация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />информации</w>, 
+<w><ana lex="размещать" gr="V=(praet,abl,sg,partcp,plen,f,pf,pass,tran|praet,dat,sg,partcp,plen,f,pf,pass,tran|praet,gen,sg,partcp,plen,f,pf,pass,tran|praet,ins,sg,partcp,plen,f,pf,pass,tran)" />размещенной</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="информационный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />информационных</w> 
+<w><ana lex="стенд" gr="S,m,inan=abl,pl" />стендах</w>., 
+<w><ana lex="особый" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />Особое</w> 
+<w><ana lex="внимание" gr="S,n,inan=(acc,sg|nom,sg)" />внимание</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf" />было</w> 
+<w><ana lex="обращать" gr="V,tran=praet,sg,partcp,brev,n,pf,pass" />обращено</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="создание" gr="S,n,inan=(acc,sg|nom,sg)" />создание</w> 
+<w><ana lex="необходимый" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />необходимых</w> 
+<w><ana lex="условие" gr="S,n,inan=gen,pl" />условий</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="получение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />получения</w> 
+<w><ana lex="услуга" gr="S,f,inan=gen,pl" />услуг</w>, 
+<w><ana lex="наличие" gr="S,n,inan=(acc,sg|nom,sg)" />наличие</w> 
+<w><ana lex="кнопка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />кнопки</w> 
+<w><ana lex="вызов" gr="S,m,inan=gen,sg" />вызова</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w>., 
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="итог" gr="S,m,inan=dat,pl" />итогам</w> 
+<w><ana lex="проверка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />проверки</w> 
+<w><ana lex="александр" gr="S,persn,m,anim=nom,sg" />Александр</w> 
+<w><ana lex="анатольевич" gr="S,patrn,m,anim=nom,sg" />Анатольевич</w> 
+<w><ana lex="давать" gr="V,tran=praet,sg,indic,m,pf" />дал</w> 
+<w><ana lex="положительный" gr="A=acc,sg,plen,f" />положительную</w> 
+<w><ana lex="оценка" gr="S,f,inan=acc,sg" />оценку</w> 
+<w><ana lex="работа" gr="S,f,inan=(abl,sg|dat,sg)" />работе</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w>, 
+<w><ana lex="оказывать" gr="V=(inpraes,abl,pl,partcp,plen,ipf,act,tran|inpraes,gen,pl,partcp,plen,ipf,act,tran|inpraes,acc,pl,partcp,plen,ipf,act,anim,tran)" />оказывающих</w> 
+<w><ana lex="государственный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />государственные</w> 
+<w><ana lex="услуга" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />услуги</w> 
+<w><ana lex="гражданин" gr="S,m,anim=dat,pl" />гражданам</w>.,  
+<w><ana lex="пресс-служба" gr="S,f,inan=nom,sg" />Пресс-служба</w> 
+<w><ana lex="омвд" qual="bastard" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ОМВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w>,  ]
+
+</se>
+</body></html>

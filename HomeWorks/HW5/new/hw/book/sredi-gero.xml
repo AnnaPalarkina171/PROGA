@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="этот" gr="APRO=(abl,sg,m|abl,sg,n)" />этом</w> 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w> 
+<w><ana lex="юбилей" gr="S,m,inan=(acc,pl|nom,pl)" />юбилеи</w> 
+<w><ana lex="рождение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />рождения</w> 
+<w><ana lex="герой" gr="S,m,anim=(acc,pl|gen,pl)" />Героев</w> 
+<w><ana lex="социалистический" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Социалистического</w> 
+<w><ana lex="труд" gr="S,m,inan=gen,sg" />Труда</w> 
+<w><ana lex="антон" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Антона</w> 
+<w><ana lex="федорович" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Федоровича</w> 
+<w><ana lex="пернакий" qual="bastard" gr="S,persn,m,anim=nom,sg" />Пернакий</w> (120 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>), 
+<w><ana lex="федор" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Федора</w> 
+<w><ana lex="прокофиевич" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Прокофьевича</w> 
+<w><ana lex="гончаров" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Гончарова</w> (115), 
+<w><ana lex="василий" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Василия</w> 
+<w><ana lex="антонович" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Антоновича</w> 
+<w><ana lex="дибров" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Диброва</w> (110), 
+<w><ana lex="николай" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Николая</w> 
+<w><ana lex="ефимович" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Ефимовича</w> 
+<w><ana lex="михайлют" qual="bastard" gr="S,m,inan=(acc,pl|nom,pl)" />Михайлюты</w> (105), 
+<w><ana lex="иван" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Ивана</w> 
+<w><ana lex="андреевич" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Андреевича</w> 
+<w><ana lex="голуба" gr="S,mf,anim=nom,sg" />Голуба</w> (105)., 
+<w><ana lex="знаменательный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />Знаменательные</w> 
+<w><ana lex="дата" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />даты</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="у" gr="PR=" />у</w> 
+<w><ana lex="ряд" gr="S,m,inan=gen,sg" />ряда</w> 
+<w><ana lex="герой" gr="S,m,anim=(acc,pl|gen,pl)" />Героев</w> 
+<w><ana lex="советский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Советского</w> 
+<w><ana lex="союз" gr="S,m,inan=gen,sg" />Союза</w>. 100 
+</se>
+<se>
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="павел" gr="S,persn,m,anim=dat,sg" />Павлу</w> 
+<w><ana lex="федотович" gr="S,patrn,m,anim=dat,sg" />Федотовичу</w> 
+<w><ana lex="головко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Головко</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="григорий" gr="S,persn,m,anim=dat,sg" />Григорию</w> 
+<w><ana lex="иванович" gr="S,patrn,m,anim=dat,sg" />Ивановичу</w> 
+<w><ana lex="свердликов" qual="bastard" gr="S,famn,m,anim=dat,sg" />Свердликову</w>, 110 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> – 
+<w><ana lex="константин" gr="S,persn,m,anim=dat,sg" />Константину</w> 
+<w><ana lex="тихонович" gr="S,patrn,m,anim=dat,sg" />Тихоновичу</w> 
+<w><ana lex="першина" gr="S,famn,f,anim=acc,sg" />Першину</w>., 110 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="со" gr="PR=" />со</w> 
+<w><ana lex="день" gr="S,m,inan=gen,sg" />дня</w> 
+<w><ana lex="рождение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />рождения</w> 
+<w><ana lex="генерал-лейтенант" gr="S,m,anim=(acc,sg|gen,sg)" />генерал-лейтенанта</w>, 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />первого</w> 
+<w><ana lex="начальник" gr="S,m,anim=(acc,sg|gen,sg)" />начальника</w> 
+<w><ana lex="академия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Академии</w> 
+<w><ana lex="мвд" gr="S,abbr,sg,n,inan=(abl|acc|dat|gen|ins|nom)" />МВД</w> 
+<w><ana lex="ссср" gr="S,abbr,geo,sg,m,inan=(abl|acc|dat|gen|ins|nom)" />СССР</w>, 
+<w><ana lex="профессор" gr="S,m,anim=(acc,sg|gen,sg|nom,pl)" />профессора</w> 
+<w><ana lex="сергей" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Сергея</w> 
+<w><ana lex="михайлович" gr="S,patrn,m,anim=(acc,sg|gen,sg)" />Михайловича</w> 
+<w><ana lex="крылов" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Крылова</w>., 85 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="рождаться" gr="V,intr=praet,sg,indic,m,pf" />родился</w> 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,inan|nom,sg,m)" />первый</w> 
+<w><ana lex="режиссер" gr="S,m,anim=nom,sg" />режиссер</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w> 
+<w><ana lex="народный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />народного</w> 
+<w><ana lex="театр" gr="S,m,inan=gen,sg" />театра</w>, 
+<w><ana lex="заслуживать" gr="V,tran=(praet,acc,sg,partcp,plen,m,pf,pass,inan|praet,nom,sg,partcp,plen,m,pf,pass)" />заслуженный</w> 
+<w><ana lex="деятель" gr="S,m,anim=nom,sg" />деятель</w> 
+<w><ana lex="искусство" gr="S,n,inan=gen,pl" />искусств</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w>, 
+<w><ana lex="профессор" gr="S,m,anim=nom,sg" />профессор</w> 
+<w><ana lex="московский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Московского</w> 
+<w><ana lex="государственный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />государственного</w> 
+<w><ana lex="институт" gr="S,m,inan=gen,sg" />института</w> 
+<w><ana lex="культура" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />культуры</w> 
+<w><ana lex="петр" gr="S,persn,m,anim=nom,sg" />Петр</w> 
+<w><ana lex="иванович" gr="S,patrn,m,anim=nom,sg" />Иванович</w> 
+<w><ana lex="слюсарев" qual="bastard" gr="S,famn,m,anim=nom,sg" />Слюсарев</w>., ******, 
+<w><ana lex="другой" gr="APRO=(nom,pl|acc,pl,inan)" />Другие</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,pl|nom,pl)" />дни</w> 
+<w><ana lex="рождение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />рождения</w>, 90 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="быть" gr="V,intr=praet,pl,indic,ipf" />были</w> 
+<w><ana lex="создавать" gr="V,tran=praet,pl,partcp,brev,pf,pass" />созданы</w> 
+<w><ana lex="сельхозпредприятие" gr="S,sg,n,inan=gen" />сельхозпредприятия</w> (
+<w><ana lex="бывший" gr="A,plen=(nom,pl|acc,pl,inan)" />бывшие</w> 
+<w><ana lex="колхоз" gr="S,m,inan=(acc,pl|nom,pl)" />колхозы</w>) 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Павловской</w>, 
+<w><ana lex="атаманский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Атаманской</w>, 
+<w><ana lex="новопластуновская" qual="bastard" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Новопластуновской</w>, 
+<w><ana lex="старолеушковский" qual="bastard" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Старолеушковской</w>., 65 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="основывать" gr="V=praet,sg,partcp,brev,n,pf,pass" />основано</w> 
+<w><ana lex="новолеушковский" qual="bastard" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />Новолеушковское</w> 
+<w><ana lex="училище" gr="S,n,inan=(abl,sg|acc,sg|nom,sg)" />училище</w> 
+<w><ana lex="механизация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />механизации</w> (
+<w><ana lex="ныне" gr="ADV=" />ныне</w> 
+<w><ana lex="павловский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Павловский</w> 
+<w><ana lex="техникум" gr="S,m,inan=(acc,sg|nom,sg)" />техникум</w> 
+<w><ana lex="профессиональный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />профессиональных</w> 
+<w><ana lex="технология" gr="S,f,inan=gen,pl" />технологий</w>)., 60 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="зарабатывать" gr="V,tran=praet,sg,indic,m,pf" />заработал</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=nom,sg" />Павловский</w> 
+<w><ana lex="сахарный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />сахарный</w> 
+<w><ana lex="завод" gr="S,m,inan=(acc,sg|nom,sg)" />завод</w>, 
+<w><ana lex="открывать" gr="V=praet,pl,indic,pf" />открыли</w> 
+<w><ana lex="гостиница" gr="S,f,inan=acc,sg" />гостиницу</w> «
+<w><ana lex="нива" gr="S,f,inan=nom,sg" />Нива</w>». 
+</se>
+<se>
+<w><ana lex="столько" gr="NUM=(acc|nom)" />Столько</w> 
+<w><ana lex="же" gr="PART=" />же</w> 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=dat,sg" />Павловскому</w> 
+<w><ana lex="народный" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />народному</w> 
+<w><ana lex="театр" gr="S,m,inan=dat,sg" />театру</w>., 55 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>  
+<w><ana lex="исполняться" gr="V,intr=inpraes,sg,indic,3p,ipf" />исполняется</w> 
+<w><ana lex="база" gr="S,f,inan=(abl,sg|dat,sg)" />базе</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="реализация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />реализации</w> 
+<w><ana lex="сжиженный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />сжиженного</w> 
+<w><ana lex="газ" gr="S,m,inan=gen,sg" />газа</w>., 45 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="открываться" gr="V,intr=praet,pl,indic,pf" />открылись</w> 
+<w><ana lex="универсам" gr="S,m,inan=(acc,sg|nom,sg)" />универсам</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Павловской</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="районный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />районный</w> 
+<w><ana lex="дом" gr="S,m,inan=(acc,sg|nom,sg)" />Дом</w> 
+<w><ana lex="культура" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />культуры</w>., 40 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w> 
+<w><ana lex="зарабатывать" gr="V,tran=praet,sg,indic,m,pf" />заработал</w> 
+<w><ana lex="мясокомбинат" gr="S,m,inan=(acc,sg|nom,sg)" />мясокомбинат</w>., 
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="материал" gr="S,m,inan=dat,pl" />материалам</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w>   
+<w><ana lex="историко" gr="COM=" />историко</w>-
+<w><ana lex="краеведческий" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />краеведческого</w> 
+<w><ana lex="музей" gr="S,m,inan=gen,sg" />музея</w>.]
+
+</se>
+</body></html>

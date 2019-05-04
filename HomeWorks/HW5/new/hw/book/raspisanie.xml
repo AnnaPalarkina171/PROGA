@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w> 
+<w><ana lex="святой" gr="A=sg,brev,n" />Свято</w>-
+<w><ana lex="успенский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Успенском</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w>, 27 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="акафист" gr="S,m,inan=ins,sg" />акафистом</w> 
+<w><ana lex="святой" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />святым</w> 
+<w><ana lex="отец" gr="S,m,anim=dat,pl" />отцам</w> 
+<w><ana lex="киево-печерский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Киево-Печерской</w> 
+<w><ana lex="лавра" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />лавры</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 28 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 10.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 30 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="неделя" gr="S,f,inan=nom,sg" />неделя</w> 31-
+<w><ana lex="я" gr="SPRO,sg,1p=nom" />я</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="пятидесятница" gr="S,f,inan=(abl,sg|dat,sg)" />Пятидесятнице</w>, 
+<w><ana lex="святой" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />святых</w> 
+<w><ana lex="праотец" gr="S,m,anim=nom,sg" />праотец</w>. 
+</se>
+<se>
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />Исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="божественный" gr="A=nom,sg,plen,f" />божественная</w> 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="водосвятный" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />водосвятный</w> 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 11.00; 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="акафист" gr="S,m,inan=ins,sg" />акафистом</w> 
+<w><ana lex="перед" gr="PR=" />перед</w> 
+<w><ana lex="образ" gr="S,m,inan=ins,sg" />образом</w> 
+<w><ana lex="пресвятой" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Пресвятой</w> 
+<w><ana lex="богородица" gr="S,f,anim=(gen,sg|nom,pl)" />Богородицы</w> «
+<w><ana lex="неупивать" qual="bastard" gr="V,ipf,intr=inpraes,nom,sg,partcp,plen,f,pass" />Неупиваемая</w> 
+<w><ana lex="чаша" gr="S,f,inan=nom,sg" />чаша</w>», 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 31 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00; 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 23.30., 1 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="мученик" gr="S,m,anim=(acc,sg|gen,sg)" />Мученика</w> 
+<w><ana lex="вонифатий" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Вонифатия</w>. 
+</se>
+<se>
+<w><ana lex="светский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Светский</w> 
+<w><ana lex="новый" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Новый</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,sg|nom,sg)" />год</w>. 
+</se>
+<se>
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />Литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 00.00., 3 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 4 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="предпразднство" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Предпразднство</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w>. 
+</se>
+<se>
+<w><ana lex="часы" gr="S,pl,inan=(acc|nom)" />Часы</w> 
+<w><ana lex="навечерие" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />навечерия</w> (
+<w><ana lex="царский" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />Царские</w> 
+<w><ana lex="часы" gr="S,pl,inan=(acc|nom)" />часы</w>), 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 5 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="суббота" gr="S,f,inan=nom,sg" />Суббота</w> 
+<w><ana lex="пред" gr="PR=" />пред</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=ins" />Рождеством</w> 
+<w><ana lex="христов" gr="A,plen,poss=(dat,pl|ins,sg,m|ins,sg,n)" />Христовым</w>. 
+</se>
+<se>
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />Исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 10.00; 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 6 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="неделя" gr="S,f,inan=nom,sg" />неделя</w> 32-
+<w><ana lex="я" gr="SPRO,sg,1p=nom" />я</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="пятидесятница" gr="S,f,inan=(abl,sg|dat,sg)" />Пятидесятнице</w>, 
+<w><ana lex="пред" gr="PR=" />пред</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=ins" />Рождеством</w> 
+<w><ana lex="христов" gr="A,plen,poss=(dat,pl|ins,sg,m|ins,sg,n)" />Христовым</w>, 
+<w><ana lex="святой" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />святых</w> 
+<w><ana lex="отец" gr="S,m,anim=nom,sg" />отец</w>. 
+</se>
+<se>
+<w><ana lex="предпразднство" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Предпразднство</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w>. 
+</se>
+<se>
+<w><ana lex="навечерие" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Навечерие</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w> (
+<w><ana lex="рождественский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Рождественский</w> 
+<w><ana lex="сочельник" gr="S,m,inan=(acc,sg|nom,sg)" />сочельник</w>).   
+</se>
+<se>
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />Исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w> 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00; 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 23.30., 7 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="рождество" gr="S,sg,n,inan=(acc|nom)" />РОЖДЕСТВО</w> 
+<w><ana lex="господь" gr="S,sg,m,anim=(acc|gen)" />ГОСПОДА</w> 
+<w><ana lex="бог" gr="S,m,anim=(acc,sg|gen,sg)" />БОГА</w> 
+<w><ana lex="и" gr="CONJ=" />И</w> 
+<w><ana lex="спас" gr="S,m,inan=gen,sg" />СПАСА</w> 
+<w><ana lex="наш" gr="APRO=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />НАШЕГО</w> 
+<w><ana lex="иисус" gr="S,persn,m,anim=(acc,sg|gen,sg)" />ИИСУСА</w> 
+<w><ana lex="христос" gr="S,famn,m,anim=(acc,sg|gen,sg)" />ХРИСТА</w>. 
+</se>
+<se>
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />Литургия</w>, 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 00.00; 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 8 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="попразднство" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Попразднство</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w>. 
+</se>
+<se>
+<w><ana lex="собор" gr="S,m,inan=(acc,sg|nom,sg)" />Собор</w> 
+<w><ana lex="пресвятой" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Пресвятой</w> 
+<w><ana lex="богородица" gr="S,f,anim=(gen,sg|nom,pl)" />Богородицы</w>. 
+</se>
+<se>
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />Исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 9 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="попразднство" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Попразднство</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w>. 
+</se>
+<se>
+<w><ana lex="апостол" gr="S,m,anim=(acc,sg|gen,sg)" />Апостола</w> 
+<w><ana lex="первомученик" qual="bastard" gr="S,m,anim=(acc,sg|gen,sg)" />Первомученика</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="архидиакон" gr="S,m,anim=(acc,sg|gen,sg)" />архидиакона</w> 
+<w><ana lex="стефан" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Стефана</w>. 
+</se>
+<se>
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />Исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00., 10 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="акафист" gr="S,m,inan=ins,sg" />акафистом</w> 
+<w><ana lex="святой" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />святым</w> 
+<w><ana lex="отец" gr="S,m,anim=dat,pl" />отцам</w> 
+<w><ana lex="киево-печерский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Киево-Печерской</w> 
+<w><ana lex="лавра" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />лавры</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 11 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 12 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 7.30; 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 10.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="исповедь" gr="S,f,inan=(acc,sg|nom,sg)" />исповедь</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w> 
+<w><ana lex="петр" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Петра</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="павел" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Павла</w>, 29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="погребение" gr="S,n,inan=(acc,sg|nom,sg)" />погребение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.30, 
+<w><ana lex="соборование" gr="S,n,inan=(acc,sg|nom,sg)" />соборование</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 30 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="божественный" gr="A=nom,sg,plen,f" />божественная</w> 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00., 5 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="погребение" gr="S,n,inan=(acc,sg|nom,sg)" />погребение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.30, 
+<w><ana lex="соборование" gr="S,n,inan=(acc,sg|nom,sg)" />соборование</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 6 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="божественный" gr="A=nom,sg,plen,f" />божественная</w> 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 7 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="божественный" gr="A=nom,sg,plen,f" />божественная</w> 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00., 12 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="панихида" gr="S,f,inan=nom,sg" />панихида</w>, 
+<w><ana lex="погребение" gr="S,n,inan=(acc,sg|nom,sg)" />погребение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.30, 
+<w><ana lex="соборование" gr="S,n,inan=(acc,sg|nom,sg)" />соборование</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w> 
+<w><ana lex="святой" gr="A=sg,brev,n" />Свято</w>-
+<w><ana lex="казанский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Казанском</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w>               (
+<w><ana lex="ст" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ст</w>. 
+<w><ana lex="новолеушковская" qual="bastard" gr="S,famn,f,anim=nom,sg" />Новолеушковская</w>), 29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="акафист" gr="S,m,inan=(acc,sg|nom,sg)" />акафист</w> 
+<w><ana lex="праведный" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />праведному</w> 
+<w><ana lex="иоанн" gr="S,persn,m,anim=dat,sg" />Иоанну</w> 
+<w><ana lex="кронштадский" qual="bastard" gr="S,famn,m,anim=dat,sg" />Кронштадскому</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 15.00., 30 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="новолетие" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />новолетие</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="новолетие" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />новолетие</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="хут" qual="bastard" gr="S,persn,m,anim=nom,sg" />хут</w>. 
+</se>
+<se>
+<w><ana lex="красный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Красном</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 12.00., 4 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="чтение" gr="S,n,inan=(acc,sg|nom,sg)" />чтение</w> 
+<w><ana lex="царский" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />Царских</w> 
+<w><ana lex="час" gr="S,m,inan=gen,pl" />часов</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="навечерие" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />Навечерие</w> 
+<w><ana lex="рождество" gr="S,sg,n,inan=gen" />Рождества</w> 
+<w><ana lex="христов" gr="A,plen,poss=(nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n)" />Христова</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00., 5 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="акафист" gr="S,m,inan=(acc,sg|nom,sg)" />акафист</w> 
+<w><ana lex="образ" gr="S,m,inan=dat,sg" />образу</w> 
+<w><ana lex="пресвятой" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Пресвятой</w> 
+<w><ana lex="богородица" gr="S,f,anim=(gen,sg|nom,pl)" />Богородицы</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 16.00., 6 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 15.00., 7 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="водосвятный" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />водосвятный</w> 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00; 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="хут" qual="bastard" gr="S,persn,m,anim=nom,sg" />хут</w>. 
+</se>
+<se>
+<w><ana lex="красный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Красном</w> 
+<w><ana lex="в" gr="PR=" />в</w> 12.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 15.00., 8 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="литургия" gr="S,f,inan=nom,sg" />литургия</w>, 
+<w><ana lex="водосвятный" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />водосвятный</w> 
+<w><ana lex="молебен" gr="S,m,inan=(acc,sg|nom,sg)" />молебен</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 8.00., 12 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="акафист" gr="S,m,inan=(acc,sg|nom,sg)" />акафист</w> 
+<w><ana lex="образ" gr="S,m,inan=dat,sg" />образу</w> 
+<w><ana lex="пресвятой" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Пресвятой</w> 
+<w><ana lex="богородица" gr="S,f,anim=(gen,sg|nom,pl)" />Богородицы</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 9.00; 
+<w><ana lex="вечерний" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />вечернее</w> 
+<w><ana lex="богослужение" gr="S,n,inan=(acc,sg|nom,sg)" />богослужение</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 15.00.]
+
+</se>
+</body></html>

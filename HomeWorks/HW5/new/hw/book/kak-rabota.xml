@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="почтамт" gr="S,m,inan=(acc,sg|nom,sg)" />почтамт</w> 
+<w><ana lex="работать" gr="V,ipf,intr=inpraes,sg,indic,3p" />работает</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="график" gr="S,m,inan=dat,sg" />графику</w> 
+<w><ana lex="понедельник" gr="S,m,inan=gen,sg" />понедельника</w> – 
+<w><ana lex="с" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />с</w> 8.00 
+<w><ana lex="до" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />до</w> 19.00. 
+</se>
+<se>
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />Отделения</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="этот" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />этот</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />день</w> 
+<w><ana lex="выходной" gr="S,m,inan=(acc,pl|nom,pl)" />выходные</w>., 30 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="почтамт" gr="S,m,inan=(acc,sg|nom,sg)" />почтамт</w> 
+<w><ana lex="работать" gr="V,ipf,intr=inpraes,sg,indic,3p" />работает</w> 
+<w><ana lex="с" gr="PR=" />с</w> 9.00 
+<w><ana lex="до" gr="PR=" />до</w> 14.00, 
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />отделения</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> – 
+<w><ana lex="выходной" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />выходные</w>., 31 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> – 
+<w><ana lex="почтамт" gr="S,m,inan=(acc,sg|nom,sg)" />почтамт</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />отделения</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> 
+<w><ana lex="работать" gr="V,ipf,intr=inpraes,pl,indic,3p" />работают</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="режим" gr="S,m,inan=dat,sg" />режиму</w> 
+<w><ana lex="суббота" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />субботы</w>., 1, 2, 7 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> – 
+<w><ana lex="почтамт" gr="S,m,inan=(acc,sg|nom,sg)" />почтамт</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />отделения</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> – 
+<w><ana lex="выходной" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />выходные</w>.]
+
+</se>
+</body></html>

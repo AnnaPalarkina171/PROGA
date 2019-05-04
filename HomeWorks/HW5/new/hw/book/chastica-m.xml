@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w> 
+<w><ana lex="святой" gr="A=sg,brev,n" />Свято</w>-
+<w><ana lex="успенский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Успенском</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Павловской</w> 
+<w><ana lex="появляться" gr="V,intr=praet,sg,indic,f,pf" />появилась</w> 
+<w><ana lex="новый" gr="A=nom,sg,plen,f" />новая</w> 
+<w><ana lex="икона" gr="S,f,inan=nom,sg" />икона</w> 
+<w><ana lex="андрей" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Андрея</w> 
+<w><ana lex="первозванний" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Первозванного</w>., 
+<w><ana lex="один" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />Один</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="двенадцать" gr="NUM=(abl|dat|gen)" />двенадцати</w> 
+<w><ana lex="ученик" gr="S,m,anim=(acc,pl|gen,pl)" />учеников</w> 
+<w><ana lex="христос" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Христа</w> 
+<w><ana lex="апостол" gr="S,m,anim=nom,sg" />апостол</w> 
+<w><ana lex="андрей" gr="S,persn,m,anim=nom,sg" />Андрей</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf" />был</w> 
+<w><ana lex="первый" gr="ANUM=(dat,pl|ins,sg,m|ins,sg,n)" />первым</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="призванный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />призванных</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="служение" gr="S,n,inan=(acc,sg|nom,sg)" />служение</w>. 
+</se>
+<se>
+<w><ana lex="отсюда" gr="ADVPRO=" />Отсюда</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="имя" gr="S,n,inan=(acc,sg|nom,sg)" />имя</w>, 
+<w><ana lex="под" gr="PR=" />под</w> 
+<w><ana lex="который" gr="APRO=(dat,pl|ins,sg,m|ins,sg,n)" />которым</w> 
+<w><ana lex="он" gr="SPRO,sg,3p,m=nom" />он</w> 
+<w><ana lex="известный" gr="A=sg,brev,m" />известен</w>. 
+</se>
+<se>
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="некоторый" gr="APRO=(dat,pl|ins,sg,m|ins,sg,n)" />некоторым</w> 
+<w><ana lex="предание" gr="S,n,inan=dat,pl" />преданиям</w>, 
+<w><ana lex="апостол" gr="S,m,anim=nom,sg" />апостол</w> 
+<w><ana lex="бывать" gr="V,ipf,intr=praet,sg,indic,m" />бывал</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="территория" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />территории</w> 
+<w><ana lex="крым" gr="S,geo,m,inan=gen,sg" />Крыма</w>. 
+</se>
+<se>
+<w><ana lex="широко" gr="ADV=" />Широко</w> 
+<w><ana lex="известный" gr="A=sg,brev,m" />известен</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="андреевский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />андреевский</w> 
+<w><ana lex="флаг" gr="S,m,inan=(acc,sg|nom,sg)" />флаг</w>, 
+<w><ana lex="который" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />который</w> 
+<w><ana lex="становиться" gr="V,intr=praet,sg,indic,m,pf" />стал</w> 
+<w><ana lex="символ" gr="S,m,inan=ins,sg" />символом</w> 
+<w><ana lex="флот" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />флота</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w>., 
+<w><ana lex="накануне" gr="PR=" />Накануне</w> 
+<w><ana lex="день" gr="S,m,inan=gen,sg" />дня</w> 
+<w><ana lex="память" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />памяти</w> 
+<w><ana lex="святой" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />святого</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="паловский" qual="bastard" gr="A=acc,sg,plen,f" />Паловскую</w> 
+<w><ana lex="привозить" gr="V=praet,pl,indic,pf" />привезли</w> 
+<w><ana lex="образ" gr="S,m,inan=(acc,sg|nom,sg)" />образ</w> 
+<w><ana lex="андрей" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Андрея</w> 
+<w><ana lex="первозванний" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Первозванного</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="частица" gr="S,f,inan=ins,sg" />частицей</w> 
+<w><ana lex="его" gr="APRO=(abl,pl|dat,pl|gen,pl|ins,pl|nom,pl|nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n|acc,sg,n|nom,sg,n|abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|abl,sg,m|abl,sg,n|dat,sg,m|dat,sg,n|acc,sg,f|acc,pl,inan|acc,sg,m,inan|nom,sg,m|ins,sg,m|ins,sg,n|acc,pl,anim|abl,pl,n|acc,pl,n|dat,pl,n|gen,pl,n|ins,pl,n|nom,pl,n|abl,pl,m|acc,pl,m|acc,sg,m|dat,pl,m)" />его</w> 
+<w><ana lex="мощь" gr="S,f,inan=gen,pl" />мощей</w>. 
+</se>
+<se>
+<w><ana lex="теперь" gr="ADV=" />Теперь</w> 
+<w><ana lex="икона" gr="S,f,inan=nom,sg" />икона</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,sg,indic,3p" />будет</w> 
+<w><ana lex="храниться" gr="V,ipf,intr=inf" />храниться</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w> 
+<w><ana lex="успение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />Успения</w> 
+<w><ana lex="пресвятой" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Пресвятой</w> 
+<w><ana lex="богородица" gr="S,f,anim=(gen,sg|nom,pl)" />Богородицы</w>, 
+<w><ana lex="где" gr="ADVPRO=" />где</w> 
+<w><ana lex="верующий" gr="S,m,anim=nom,pl" />верующие</w> 
+<w><ana lex="смочь" gr="V,pf,intr=inpraes,pl,indic,3p" />смогут</w> 
+<w><ana lex="помолиться" gr="V,pf,intr=inf" />помолиться</w> 
+<w><ana lex="святой" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />святому</w>., 
+<w><ana lex="текст" gr="S,m,inan=(acc,sg|nom,sg)" />Текст</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="фото" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />фото</w> 
+<w><ana lex="м" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />М</w>. 
+<w><ana lex="касьян" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Касьяна</w>., 
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="снимок" gr="S,m,inan=abl,sg" />снимке</w>: 
+<w><ana lex="иеромонах" gr="S,m,anim=nom,sg" />иеромонах</w> 
+<w><ana lex="алексий" gr="S,persn,m,anim=nom,sg" />Алексий</w> 
+<w><ana lex="юзбашян" qual="bastard" gr="S,famn,m,anim=nom,sg" />Юзбашян</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="иерей" gr="S,m,anim=nom,sg" />иерей</w> 
+<w><ana lex="андрей" gr="S,persn,m,anim=nom,sg" />Андрей</w> 
+<w><ana lex="ураз" qual="bastard" gr="S,persn,m,anim=(acc,pl|gen,pl)" />Уразов</w> 
+<w><ana lex="вносить" gr="V=inpraes,pl,indic,3p,ipf,tran" />вносят</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="храм" gr="S,m,inan=(acc,sg|nom,sg)" />храм</w> 
+<w><ana lex="икона" gr="S,f,inan=acc,sg" />икону</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="частица" gr="S,f,inan=ins,sg" />частицей</w> 
+<w><ana lex="мощь" gr="S,f,inan=gen,pl" />мощей</w> 
+<w><ana lex="святой" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />святого</w> 
+<w><ana lex="андрей" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Андрея</w> 
+<w><ana lex="первозванний" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Первозванного</w>.]
+
+</se>
+</body></html>

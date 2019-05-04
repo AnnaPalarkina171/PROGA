@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="павловчанин" gr="S,m,anim=nom,sg" />Павловчанин</w> 
+<w><ana lex="артем" gr="S,persn,m,anim=nom,sg" />Артём</w> 
+<w><ana lex="булка" gr="S,f,inan=nom,sg" />БУЛКА</w> 
+<w><ana lex="возглавлять" gr="V,tran=inpraes,sg,indic,3p,ipf" />возглавляет</w> 
+<w><ana lex="отделение" gr="S,n,inan=(acc,sg|nom,sg)" />отделение</w> 3-
+<w><ana lex="го" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />го</w> 
+<w><ana lex="караул" gr="S,m,inan=gen,sg" />караула</w>., 
+<w><ana lex="после" gr="ADV=" />После</w> 
+<w>СШ</w> 
+<w>№</w> 10 
+<w><ana lex="учиться" gr="V,ipf,intr=praet,sg,indic,m" />учился</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="донский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Донском</w> 
+<w><ana lex="государственный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />государственном</w> 
+<w><ana lex="аграрный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />аграрном</w> 
+<w><ana lex="университет" gr="S,m,inan=abl,sg" />университете</w>. 
+</se>
+<se>
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="окончание" gr="S,n,inan=abl,sg" />окончании</w> 
+<w><ana lex="устраиваться" gr="V,intr=praet,sg,indic,m,pf" />устроился</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="пожарный" gr="A=acc,sg,plen,f" />пожарную</w> 
+<w><ana lex="часть" gr="S,f,inan=(acc,sg|nom,sg)" />часть</w> 
+<w>№</w> 127. 
+</se>
+<se>
+<w><ana lex="с" gr="PR=" />С</w> 
+<w><ana lex="тот" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />тех</w> 
+<w><ana lex="пора" gr="S,f,inan=gen,pl" />пор</w> 
+<w><ana lex="проходить" gr="V,intr=praet,sg,indic,n,pf" />прошло</w> 
+<w><ana lex="много" gr="ADV=comp" />более</w> 
+<w><ana lex="три" gr="NUM=(abl|gen|acc,anim)" />трех</w> 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>., 
+<w><ana lex="участвовать" gr="V,ipf,intr=praet,sg,indic,m" />Участвовал</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="тушение" gr="S,n,inan=abl,sg" />тушении</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="мало" gr="NUM=comp" />менее</w> 
+<w><ana lex="полусотня" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />полусотни</w> 
+<w><ana lex="пожар" gr="S,m,inan=gen,pl" />пожаров</w>. 
+</se>
+<se>
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="экстремальный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />экстремальных</w> 
+<w><ana lex="ситуация" gr="S,f,inan=abl,pl" />ситуациях</w> 
+<w><ana lex="всегда" gr="ADVPRO=" />всегда</w> 
+<w><ana lex="четко" gr="ADV=" />четко</w> 
+<w><ana lex="выполнять" gr="V,tran=inpraes,sg,indic,3p,ipf" />выполняет</w> 
+<w><ana lex="свой" gr="APRO=(nom,pl|acc,pl,inan)" />свои</w> 
+<w><ana lex="обязанность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />обязанности</w>. 
+</se>
+<se>
+<w><ana lex="каждый" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />Каждый</w> 
+<w><ana lex="раз" gr="S,m,inan=(acc,sg|gen,pl|nom,sg)" />раз</w>, 
+<w><ana lex="выезжать" gr="V,intr=inpraes,ger,ipf" />выезжая</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="возгорание" gr="S,n,inan=(acc,sg|nom,sg)" />возгорание</w>, 
+<w><ana lex="ощущать" gr="V,tran=inpraes,sg,indic,3p,ipf" />ощущает</w> 
+<w><ana lex="естественный" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />естественное</w> 
+<w><ana lex="волнение" gr="S,n,inan=(acc,sg|nom,sg)" />волнение</w>. 
+</se>
+<se>
+<w><ana lex="ведь" gr="PART=" />Ведь</w> 
+<w><ana lex="фактор" gr="S,m,inan=(acc,sg|nom,sg)" />фактор</w> 
+<w><ana lex="неизвестность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />неизвестности</w> 
+<w><ana lex="всегда" gr="ADVPRO=" />всегда</w> 
+<w><ana lex="присутствовать" gr="V,ipf,intr=inpraes,sg,indic,3p" />присутствует</w>. 
+</se>
+<se>
+<w><ana lex="чувство" gr="S,n,inan=(acc,sg|nom,sg)" />Чувство</w> 
+<w><ana lex="опасность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />опасности</w> 
+<w><ana lex="непреодолимый" gr="A=sg,brev,n" />непреодолимо</w>   
+<w><ana lex="даже" gr="PART=" />даже</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="очень" gr="ADV=" />очень</w> 
+<w><ana lex="опытный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />опытных</w> 
+<w><ana lex="пожарный" gr="S,m,anim=(abl,pl|acc,pl|gen,pl)" />пожарных</w>. 
+</se>
+<se>
+<w><ana lex="таков" gr="APRO,brev=sg,f" />Такова</w> 
+<w><ana lex="уж" gr="PART=" />уж</w> 
+<w><ana lex="этот" gr="APRO=nom,sg,f" />эта</w> 
+<w><ana lex="профессия" gr="S,f,inan=nom,sg" />профессия</w>.]
+
+</se>
+</body></html>

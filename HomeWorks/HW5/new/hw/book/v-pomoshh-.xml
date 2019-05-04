@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="дорогой" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />Дорогие</w> 
+<w><ana lex="земляк" gr="S,m,anim=nom,pl" />земляки</w>! 26 
+</se>
+<se>
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 
+<w><ana lex="телеканал" gr="S,m,inan=(acc,sg|nom,sg)" />телеканал</w> «
+<w><ana lex="кубань" gr="S,geo,f,inan=(acc,sg|nom,sg)" />Кубань</w> 24» 
+<w><ana lex="и" gr="CONJ=" />и</w> «
+<w><ana lex="первое" gr="S,n,inan=(acc,sg|nom,sg)" />Первое</w> 
+<w><ana lex="радио" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />радио</w>» 
+<w><ana lex="проводить" gr="V=inpraes,pl,indic,3p,pf" />проведут</w> 
+<w><ana lex="благотворительный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />благотворительный</w> 
+<w><ana lex="новогодний" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />новогодний</w> 
+<w><ana lex="марафон" gr="S,m,inan=(acc,sg|nom,sg)" />марафон</w> «
+<w><ana lex="край" gr="S,m,inan=(acc,sg|nom,sg)" />Край</w> 
+<w><ana lex="добро" gr="S,sg,n,inan=gen" />Добра</w>». 
+</se>
+<se>
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="течение" gr="S,n,inan=(acc,sg|nom,sg)" />течение</w> 
+<w><ana lex="день" gr="S,m,inan=gen,sg" />дня</w> 
+<w><ana lex="корреспондент" gr="S,m,anim=nom,pl" />корреспонденты</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="ведущий" gr="S,m,anim=nom,pl" />ведущие</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,pl,indic,3p" />будут</w> 
+<w><ana lex="рассказывать" gr="V=inf,ipf,tran" />рассказывать</w> 
+<w><ana lex="история" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />истории</w> 
+<w><ana lex="маленький" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />маленьких</w> 
+<w><ana lex="житель" gr="S,m,anim=(acc,pl|gen,pl)" />жителей</w> 
+<w><ana lex="кубань" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Кубани</w>, 
+<w><ana lex="который" gr="APRO=(nom,pl|acc,pl,inan)" />которые</w> 
+<w><ana lex="мечтать" gr="V,ipf,intr=inpraes,pl,indic,3p" />мечтают</w> 
+<w><ana lex="выздоравливать" gr="V,intr=inf,pf" />выздороветь</w>. 
+</se>
+<se>
+<w><ana lex="весь" gr="APRO=(nom,pl|acc,sg,n|nom,sg,n|acc,pl,inan)" />Все</w> 
+<w><ana lex="собранный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />собранные</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="этот" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />этот</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />день</w> 
+<w><ana lex="средство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />средства</w> 
+<w><ana lex="направлять" gr="V,tran=inpraes,pl,indic,3p,pf" />направят</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="помощь" gr="S,f,inan=(acc,sg|nom,sg)" />помощь</w> 
+<w><ana lex="больной" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />больным</w> 
+<w><ana lex="ребенок" gr="S,m,anim=dat,pl" />детям</w>.,  ]
+
+</se>
+</body></html>

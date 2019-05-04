@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="уважаемый" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />Уважаемые</w> 
+<w><ana lex="житель" gr="S,m,anim=nom,pl" />жители</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="гость" gr="S,m,anim=nom,pl" />гости</w> 
+<w><ana lex="станица" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />станицы</w> 
+<w><ana lex="павловская" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Павловской</w>! 
+</se>
+<se>
+<w><ana lex="спешить" gr="V,ipf,intr=inpraes,pl,indic,1p" />Спешим</w> 
+<w><ana lex="вы" gr="SPRO,pl,2p=dat" />вам</w> 
+<w><ana lex="сообщать" gr="V,tran=inf,pf" />сообщить</w>, 
+<w><ana lex="что" gr="CONJ=" />что</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="центральный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />центральной</w> 
+<w><ana lex="площадь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />площади</w> 
+<w><ana lex="шуметь" gr="V,ipf,intr=inpraes,sg,indic,3p" />шумит</w> 
+<w><ana lex="большой" gr="A=nom,sg,plen,f" />большая</w> 
+<w><ana lex="универсальный" gr="A=nom,sg,plen,f" />универсальная</w> 
+<w><ana lex="предновогодний" gr="A=nom,sg,plen,f" />предновогодняя</w> 
+<w><ana lex="ярмарка" gr="S,f,inan=nom,sg" />ярмарка</w>. 
+</se>
+<se>
+<w><ana lex="ждать" gr="V,ipf,tran=inpraes,pl,indic,1p" />Ждём</w> 
+<w><ana lex="с" gr="PR=" />с</w> 24-
+<w><ana lex="го" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />го</w> 
+<w><ana lex="по" gr="PR=" />по</w> 29 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 
+<w><ana lex="с" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />с</w> 8.00 
+<w><ana lex="до" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />до</w> 16.00!]
+
+</se>
+</body></html>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="взнос" gr="S,m,inan=(acc,sg|nom,sg)" />Взнос</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="программа" gr="S,f,inan=(abl,sg|dat,sg)" />Программе</w> 
+<w><ana lex="государственный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />государственного</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w> 
+<w><ana lex="пенсия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />пенсии</w> 
+<w><ana lex="необходимо" gr="ADV=" />необходимо</w> 
+<w><ana lex="сделать" gr="V,pf,tran=inf" />сделать</w> 
+<w><ana lex="до" gr="PR=" />до</w> 
+<w><ana lex="конец" gr="S,m,inan=gen,sg" />конца</w> 
+<w><ana lex="текущий" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />текущего</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="управление" gr="S,n,inan=(acc,sg|nom,sg)" />Управление</w> 
+<w>ПФР</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Павловском</w> 
+<w><ana lex="район" gr="S,m,inan=abl,sg" />районе</w> 
+<w><ana lex="напоминать" gr="V,tran=inpraes,sg,indic,3p,ipf" />напоминает</w> 
+<w><ana lex="о" gr="PR=" />о</w> 
+<w><ana lex="то" gr="SPRO,sg,n,inan=abl" />том</w>, 
+<w><ana lex="что" gr="CONJ=" />что</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="получение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />получения</w> 
+<w><ana lex="право" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />права</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="государственный" gr="A=(acc,sg,plen,n|nom,sg,plen,n)" />государственное</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />софинансирование</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w> 
+<w><ana lex="в" gr="PR=" />в</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w>, 
+<w><ana lex="необходимо" gr="ADV=" />необходимо</w> 
+<w><ana lex="осуществлять" gr="V,tran=inf,pf" />осуществить</w> 
+<w><ana lex="платеж" gr="S,m,inan=(acc,pl|nom,pl)" />платежи</w> 
+<w><ana lex="от" gr="PR=" />от</w> 2000 
+<w><ana lex="до" gr="PR=" />до</w> 12000 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w> 
+<w><ana lex="до" gr="PR=" />до</w> 31.12.2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="важно" gr="ADV=" />Важно</w>! 
+</se>
+<se>
+<w><ana lex="право" gr="S,n,inan=(acc,sg|nom,sg)" />Право</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="получение" gr="S,n,inan=(acc,sg|nom,sg)" />получение</w> 
+<w><ana lex="государственный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />государственной</w> 
+<w><ana lex="поддержка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />поддержки</w> 
+<w><ana lex="формирование" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />формирования</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w> 
+<w><ana lex="иметь" gr="V,ipf,tran=inpraes,pl,indic,3p" />имеют</w> 
+<w><ana lex="россиянин" gr="S,m,anim=nom,pl" />россияне</w>, 
+<w><ana lex="подавать" gr="V,tran=(praet,nom,pl,partcp,plen,pf,act|praet,acc,pl,partcp,plen,pf,act,inan)" />подавшие</w> 
+<w><ana lex="заявление" gr="S,n,inan=(acc,sg|nom,sg)" />заявление</w> 
+<w><ana lex="о" gr="PR=" />о</w> 
+<w><ana lex="добровольный" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />добровольном</w> 
+<w><ana lex="вступление" gr="S,n,inan=abl,sg" />вступлении</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="программа" gr="S,f,inan=acc,sg" />Программу</w> 
+<w><ana lex="государственный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />государственного</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="период" gr="S,m,inan=(acc,sg|nom,sg)" />период</w> 
+<w><ana lex="с" gr="PR=" />с</w> 1 
+<w><ana lex="октябрь" gr="S,m,inan=gen,sg" />октября</w> 2008 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="по" gr="PR=" />по</w> 31 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 2014 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="сделать" gr="V,pf,tran=(praet,nom,pl,partcp,plen,act|praet,acc,pl,partcp,plen,act,inan)" />сделавшие</w> 
+<w><ana lex="свой" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />свой</w> 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,inan|nom,sg,m)" />первый</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,sg|nom,sg)" />взнос</w> 
+<w><ana lex="до" gr="PR=" />до</w> 31 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2015 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="тот" gr="APRO=(nom,pl|acc,pl,inan)" />Те</w>, 
+<w><ana lex="кто" gr="SPRO,sg,m,anim=nom" />кто</w> 
+<w><ana lex="решать" gr="V,tran=praet,sg,indic,m,pf" />решил</w> 
+<w><ana lex="сейчас" gr="ADV=" />сейчас</w> 
+<w><ana lex="вступать" gr="V,intr=inf,pf" />вступить</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="программа" gr="S,f,inan=acc,sg" />Программу</w>, 
+<w><ana lex="либо" gr="CONJ=" />либо</w> 
+<w><ana lex="являться" gr="V,intr=inpraes,sg,indic,3p,ipf" />является</w> 
+<w><ana lex="она" gr="SPRO,sg,3p,f=(acc|gen)" />её</w> 
+<w><ana lex="участник" gr="S,m,anim=ins,sg" />участником</w>, 
+<w><ana lex="но" gr="CONJ=" />но</w> 
+<w><ana lex="ни" gr="PART=" />ни</w> 
+<w><ana lex="раз" gr="S,m,inan=(dat,sg|part,sg)" />разу</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="перечислять" gr="V,tran=praet,sg,indic,m,ipf" />перечислял</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="рамка" gr="S,f,inan=abl,pl" />рамках</w> 
+<w><ana lex="этот" gr="APRO=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f)" />этой</w> 
+<w><ana lex="программа" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />программы</w>, 
+<w><ana lex="рассчитывать" gr="V,ipf,tran=inf" />рассчитывать</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />софинансирование</w> 
+<w><ana lex="со" gr="PR=" />со</w> 
+<w><ana lex="сторона" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />стороны</w> 
+<w><ana lex="государство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />государства</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="мочь" gr="V,ipf,intr=inpraes,pl,indic,3p" />могут</w>., 
+<w><ana lex="пополнять" gr="V,tran=inf,ipf" />Пополнять</w> 
+<w><ana lex="свой" gr="APRO=(nom,pl|acc,pl,inan)" />свои</w> 
+<w><ana lex="пенсионный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />пенсионные</w> 
+<w><ana lex="накопление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />накопления</w> 
+<w><ana lex="такой" gr="APRO=(dat,pl|ins,sg,m|ins,sg,n)" />таким</w> 
+<w><ana lex="гражданин" gr="S,m,anim=dat,pl" />гражданам</w> 
+<w><ana lex="можно" gr="ADV,praed=" />можно</w> 
+<w><ana lex="только" gr="PART=" />только</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="счет" gr="S,m,inan=(acc,sg|nom,sg)" />счет</w> 
+<w><ana lex="самостоятельный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />самостоятельного</w> 
+<w><ana lex="перечисление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />перечисления</w> 
+<w><ana lex="дополнительный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />дополнительных</w> 
+<w><ana lex="взнос" gr="S,m,inan=gen,pl" />взносов</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="свой" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />свой</w> 
+<w><ana lex="индивидуальный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />индивидуальный</w> 
+<w><ana lex="лицевой" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m|abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />лицевой</w> 
+<w><ana lex="счет" gr="S,m,inan=(acc,sg|nom,sg)" />счет</w>., 
+<w><ana lex="гражданин" gr="S,m,anim=nom,pl" />Граждане</w>, 
+<w><ana lex="получать" gr="V,tran=(inpraes,nom,pl,partcp,plen,ipf,act|inpraes,acc,pl,partcp,plen,ipf,act,inan)" />получающие</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,sg|nom,sg)" />софинансирование</w> 
+<w><ana lex="со" gr="PR=" />со</w> 
+<w><ana lex="сторона" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />стороны</w> 
+<w><ana lex="государство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />государства</w>, 
+<w><ana lex="мочь" gr="V,ipf,intr=inpraes,pl,indic,3p" />могут</w> 
+<w><ana lex="рассчитывать" gr="V,ipf,tran=inf" />рассчитывать</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="такой" gr="APRO=acc,sg,f" />такую</w> 
+<w><ana lex="поддержка" gr="S,f,inan=acc,sg" />поддержку</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="течение" gr="S,n,inan=(acc,sg|nom,sg)" />течение</w> 10 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w>, 
+<w><ana lex="начинать" gr="V,tran=inpraes,ger,ipf" />начиная</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />первого</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w><ana lex="уплата" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />уплаты</w> 
+<w><ana lex="дополнительный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />дополнительных</w> 
+<w><ana lex="взнос" gr="S,m,inan=gen,pl" />взносов</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="накопительный" gr="A=acc,sg,plen,f" />накопительную</w> 
+<w><ana lex="пенсия" gr="S,f,inan=acc,sg" />пенсию</w>., 
+<w><ana lex="обращать" gr="V,tran=(inpraes,pl,indic,1p,ipf|inpraes,sg,partcp,brev,m,ipf,pass)" />Обращаем</w> 
+<w><ana lex="внимание" gr="S,n,inan=(acc,sg|nom,sg)" />внимание</w>, 
+<w><ana lex="дополнительный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />дополнительные</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w> 
+<w><ana lex="вместе" gr="ADV=" />вместе</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=ins,sg" />софинансированием</w> 
+<w><ana lex="относиться" gr="V,intr=inpraes,pl,indic,3p,ipf" />относятся</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="накопительный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />накопительной</w> 
+<w><ana lex="пенсия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />пенсии</w>, 
+<w><ana lex="поэтому" gr="ADVPRO=" />поэтому</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="они" gr="SPRO,pl=(abl|acc|gen)" />них</w> 
+<w><ana lex="действовать" gr="V,ipf,intr=inpraes,pl,indic,3p" />действуют</w> 
+<w><ana lex="тот" gr="APRO=(nom,pl|acc,pl,inan)" />те</w> 
+<w><ana lex="же" gr="PART=" />же</w> 
+<w><ana lex="принцип" gr="S,m,inan=(acc,pl|nom,pl)" />принципы</w> 
+<w><ana lex="управление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />управления</w> 
+<w><ana lex="пенсионный" gr="A=ins,pl,plen" />пенсионными</w> 
+<w><ana lex="накопление" gr="S,n,inan=ins,pl" />накоплениями</w>. 
+</se>
+<se>
+<w><ana lex="то" gr="SPRO,sg,n,inan=(acc|nom)" />То</w> 
+<w><ana lex="быть" gr="V,intr=(inpraes,sg,indic,3p,ipf|inpraes,pl,indic,3p,ipf|praes,pl,indic,1p,ipf|praes,sg,indic,1p,ipf|praes,pl,indic,2p,ipf|praes,sg,indic,2p,ipf|praes,pl,indic,3p,ipf|praes,sg,indic,3p,ipf)" />есть</w>, 
+<w><ana lex="если" gr="CONJ=" />если</w> 
+<w><ana lex="гражданин" gr="S,m,anim=nom,sg" />гражданин</w> 
+<w><ana lex="передавать" gr="V,tran=praet,sg,indic,m,pf" />передал</w> 
+<w><ana lex="свой" gr="APRO=(nom,pl|acc,pl,inan)" />свои</w> 
+<w><ana lex="накопление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />накопления</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="какой-либо" gr="APRO=(acc,sg,m,anim|abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />какой-либо</w> 
+<w><ana lex="негосударственный" gr="A,plen=(acc,sg,m,inan|nom,sg,m)" />негосударственный</w> 
+<w><ana lex="пенсионный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />пенсионный</w> 
+<w><ana lex="фонд" gr="S,m,inan=(acc,sg|nom,sg)" />фонд</w>, 
+<w><ana lex="то" gr="CONJ=" />то</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w>, 
+<w><ana lex="уплачивать" gr="V,tran=(praet,acc,pl,partcp,plen,pf,pass,inan|praet,nom,pl,partcp,plen,pf,pass)" />уплаченные</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="рамка" gr="S,f,inan=abl,pl" />рамках</w> 
+<w><ana lex="программа" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />Программы</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w>, 
+<w><ana lex="также" gr="ADV=" />также</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,pl,indic,3p" />будут</w> 
+<w><ana lex="передавать" gr="V,tran=praet,pl,partcp,brev,pf,pass" />переданы</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="этот" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />этот</w> 
+<w>НПФ</w>., 
+<w><ana lex="получать" gr="V,tran=inf,pf" />Получить</w> 
+<w><ana lex="свой" gr="APRO=(nom,pl|acc,pl,inan)" />свои</w> 
+<w><ana lex="пенсионный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />пенсионные</w> 
+<w><ana lex="накопление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />накопления</w> 
+<w><ana lex="гражданин" gr="S,m,anim=nom,sg" />гражданин</w> 
+<w><ana lex="мочь" gr="V,ipf,intr=inpraes,sg,indic,3p" />может</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="достижение" gr="S,n,inan=abl,sg" />достижении</w> 55 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> (
+<w><ana lex="женщина" gr="S,f,anim=(gen,sg|nom,pl)" />женщины</w>) 
+<w><ana lex="и" gr="CONJ=" />и</w> 60 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> (
+<w><ana lex="мужчина" gr="S,m,anim=(gen,sg|nom,pl)" />мужчины</w>), 
+<w><ana lex="обращаться" gr="V,intr=praet,ger,pf" />обратившись</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="заявление" gr="S,n,inan=ins,sg" />заявлением</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="страховщик" gr="S,m,anim=dat,sg" />страховщику</w> (
+<w>ПФР</w> 
+<w><ana lex="или" gr="CONJ=" />или</w> 
+<w>НПФ</w>), 
+<w><ana lex="который" gr="APRO=(acc,sg,m,inan|nom,sg,m)" />который</w> 
+<w><ana lex="управлять" gr="V,ipf,intr=inpraes,sg,indic,3p" />управляет</w> 
+<w><ana lex="он" gr="SPRO,sg,3p,m=(acc|gen)" />его</w> 
+<w><ana lex="пенсионный" gr="A=ins,pl,plen" />пенсионными</w> 
+<w><ana lex="накопление" gr="S,n,inan=ins,pl" />накоплениями</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="момент" gr="S,m,inan=(acc,sg|nom,sg)" />момент</w> 
+<w><ana lex="обращение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />обращения</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="выплата" gr="S,f,inan=ins,sg" />выплатой</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="случай" gr="S,m,inan=abl,sg" />случае</w> 
+<w><ana lex="смерть" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />смерти</w> 
+<w><ana lex="гражданин" gr="S,m,anim=(acc,sg|gen,sg)" />гражданина</w>, 
+<w><ana lex="до" gr="PR=" />до</w> 
+<w><ana lex="назначение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />назначения</w> 
+<w><ana lex="он" gr="SPRO,sg,3p,m=dat" />ему</w> 
+<w><ana lex="выплата" gr="S,f,inan=gen,pl" />выплат</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="счет" gr="S,m,inan=(acc,sg|nom,sg)" />счет</w> 
+<w><ana lex="средство" gr="S,n,inan=gen,pl" />средств</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w>, 
+<w><ana lex="средство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />средства</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w> 
+<w><ana lex="мочь" gr="V,ipf,intr=inpraes,pl,indic,3p" />могут</w> 
+<w><ana lex="быть" gr="V,intr=inf,ipf" />быть</w> 
+<w><ana lex="выплачивать" gr="V,tran=praet,pl,partcp,brev,pf,pass" />выплачены</w> 
+<w><ana lex="его" gr="APRO=(abl,pl|dat,pl|gen,pl|ins,pl|nom,pl|nom,sg,f|acc,sg,m,anim|gen,sg,m|gen,sg,n|acc,sg,n|nom,sg,n|abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|abl,sg,m|abl,sg,n|dat,sg,m|dat,sg,n|acc,sg,f|acc,pl,inan|acc,sg,m,inan|nom,sg,m|ins,sg,m|ins,sg,n|acc,pl,anim|abl,pl,n|acc,pl,n|dat,pl,n|gen,pl,n|ins,pl,n|nom,pl,n|abl,pl,m|acc,pl,m|acc,sg,m|dat,pl,m)" />его</w> 
+<w><ana lex="правопреемник" gr="S,m,anim=dat,pl" />правопреемникам</w>., 
+<w><ana lex="работодатель" gr="S,m,anim=nom,pl" />Работодатели</w>, 
+<w><ana lex="удерживать" gr="V,tran=(inpraes,nom,pl,partcp,plen,ipf,act|inpraes,acc,pl,partcp,plen,ipf,act,inan)" />удерживающие</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="заработный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />заработной</w> 
+<w><ana lex="плата" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />платы</w> 
+<w><ana lex="свой" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />своих</w> 
+<w><ana lex="работник" gr="S,m,anim=(acc,pl|gen,pl)" />работников</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="перечислять" gr="V,tran=(inpraes,nom,pl,partcp,plen,ipf,act|inpraes,acc,pl,partcp,plen,ipf,act,inan)" />перечисляющие</w> 
+<w><ana lex="они" gr="SPRO,pl=(acc|gen)" />их</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="пенсионный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Пенсионный</w> 
+<w><ana lex="фонд" gr="S,m,inan=(acc,sg|nom,sg)" />фонд</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="рамка" gr="S,f,inan=abl,pl" />рамках</w> 
+<w><ana lex="программа" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />Программы</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w> 
+<w><ana lex="пенсионный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />пенсионных</w> 
+<w><ana lex="накопление" gr="S,n,inan=gen,pl" />накоплений</w>, 
+<w><ana lex="также" gr="ADV=" />также</w> 
+<w><ana lex="должный" gr="A=pl,brev" />должны</w> 
+<w><ana lex="знать" gr="V,ipf,tran=inf" />знать</w>, 
+<w><ana lex="что" gr="CONJ=" />что</w> 
+<w><ana lex="государство" gr="S,n,inan=(acc,sg|nom,sg)" />государство</w> 
+<w><ana lex="удваивать" gr="V,tran=inpraes,sg,indic,3p,pf" />удвоит</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="накопительный" gr="A=acc,sg,plen,f" />накопительную</w> 
+<w><ana lex="пенсия" gr="S,f,inan=acc,sg" />пенсию</w> 
+<w><ana lex="только" gr="PART=" />только</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="тот" gr="APRO=(abl,sg,m|abl,sg,n)" />том</w> 
+<w><ana lex="случай" gr="S,m,inan=abl,sg" />случае</w>, 
+<w><ana lex="если" gr="CONJ=" />если</w> 
+<w><ana lex="они" gr="SPRO,pl=nom" />они</w> 
+<w><ana lex="составлять" gr="V,tran=inpraes,pl,indic,3p,pf" />составят</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="менее" gr="ADV=" />менее</w> 2000 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,sg|nom,sg)" />год</w>. 
+</se>
+<se>
+<w><ana lex="при" gr="PR=" />При</w> 
+<w><ana lex="уплата" gr="S,f,inan=(abl,sg|dat,sg)" />уплате</w> 
+<w><ana lex="дополнительный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />дополнительных</w> 
+<w><ana lex="страховой" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />страховых</w> 
+<w><ana lex="взнос" gr="S,m,inan=gen,pl" />взносов</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="размер" gr="S,m,inan=abl,sg" />размере</w> 
+<w><ana lex="минимальный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />минимального</w> 
+<w><ana lex="софинансируемый" qual="bastard" gr="A,plen=(acc,sg,m,anim|gen,sg,m|gen,sg,n)" />софинансируемого</w> 
+<w><ana lex="платеж" gr="S,m,inan=gen,sg" />платежа</w> (2000 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>), 
+<w><ana lex="необходимо" gr="ADV=" />необходимо</w> 
+<w><ana lex="успевать" gr="V,intr=inf,pf" />успеть</w> 
+<w><ana lex="проводить" gr="V=inf,pf" />провести</w> 
+<w><ana lex="платеж" gr="S,m,inan=(acc,sg|nom,sg)" />платеж</w> 
+<w><ana lex="до" gr="PR=" />до</w> 25 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="случай" gr="S,m,inan=abl,sg" />случае</w>, 
+<w><ana lex="если" gr="CONJ=" />если</w> 
+<w><ana lex="платеж" gr="S,m,inan=(acc,sg|nom,sg)" />платеж</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="заработный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />заработной</w> 
+<w><ana lex="плата" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />платы</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="декабрь" gr="S,m,inan=(acc,sg|nom,sg)" />декабрь</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,sg,indic,3p" />будет</w> 
+<w><ana lex="перечислять" gr="V,tran=praet,sg,partcp,brev,m,pf,pass" />перечислен</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="январь" gr="S,m,inan=abl,sg" />январе</w>, 
+<w><ana lex="то" gr="CONJ=" />то</w> 
+<w><ana lex="этот" gr="APRO=(nom,pl|acc,pl,inan)" />эти</w> 
+<w><ana lex="сумма" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />суммы</w> 
+<w><ana lex="не" gr="PART=" />не</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,pl,indic,3p" />будут</w> 
+<w><ana lex="учитывать" gr="V=praet,pl,partcp,brev,pf,pass" />учтены</w> 
+<w><ana lex="при" gr="PR=" />при</w> 
+<w><ana lex="расчет" gr="S,m,inan=abl,sg" />расчете</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="итог" gr="S,m,inan=dat,pl" />итогам</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>. 
+</se>
+<se>
+<w><ana lex="поэтому" gr="ADVPRO=" />Поэтому</w> 
+<w><ana lex="так" gr="ADVPRO=" />так</w> 
+<w><ana lex="важно" gr="ADV=" />важно</w> 
+<w><ana lex="перечислять" gr="V,tran=inf,pf" />перечислить</w> 
+<w><ana lex="взнос" gr="S,m,inan=(acc,pl|nom,pl)" />взносы</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="декабрь" gr="S,m,inan=(acc,sg|nom,sg)" />декабрь</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="декабрь" gr="S,m,inan=abl,sg" />декабре</w> 
+<w><ana lex="текущий" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />текущего</w> 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="консультация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Консультации</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="вопрос" gr="S,m,inan=dat,pl" />вопросам</w>, 
+<w><ana lex="касаться" gr="V,intr=(inpraes,dat,pl,partcp,plen,ipf,act|inpraes,ins,sg,partcp,plen,m,ipf,act|inpraes,ins,sg,partcp,plen,n,ipf,act)" />касающимся</w> 
+<w><ana lex="программа" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />программы</w> 
+<w><ana lex="государственный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />государственного</w> 
+<w><ana lex="софинансирование" qual="bastard" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />софинансирования</w> 
+<w><ana lex="пенсия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />пенсии</w>, 
+<w><ana lex="можно" gr="ADV,praed=" />можно</w> 
+<w><ana lex="получать" gr="V,tran=inf,pf" />получить</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="управление" gr="S,n,inan=abl,sg" />управлении</w> 
+<w>ПФР</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Павловском</w> 
+<w><ana lex="район" gr="S,m,inan=abl,sg" />районе</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="кабинет" gr="S,m,inan=abl,sg" />кабинете</w> 302, 
+<w><ana lex="телефон" gr="S,m,inan=(acc,sg|nom,sg)" />телефон</w> 5-56-88., 
+<w><ana lex="и" gr="CONJ=" />И</w>. 
+<w><ana lex="андрусевич" qual="bastard" gr="S,famn,m,anim=nom,sg" />Андрусевич</w>,, 
+<w><ana lex="начальник" gr="S,m,anim=nom,sg" />начальник</w> 
+<w><ana lex="упфр" qual="bastard" gr="S,m,anim=nom,sg" />УПФР</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Павловском</w> 
+<w><ana lex="район" gr="S,m,inan=abl,sg" />районе</w>.]
+
+</se>
+</body></html>

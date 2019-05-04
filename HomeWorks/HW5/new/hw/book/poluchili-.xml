@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="мероприятие" gr="S,n,inan=abl,sg" />мероприятии</w>, 
+<w><ana lex="посвящать" gr="V,tran=(praet,abl,sg,partcp,plen,m,pf,pass|praet,abl,sg,partcp,plen,n,pf,pass)" />посвященном</w> 
+<w><ana lex="день" gr="S,m,inan=dat,sg" />Дню</w> 
+<w><ana lex="герой" gr="S,m,anim=(acc,pl|gen,pl)" />Героев</w> 
+<w><ana lex="отечество" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />Отечества</w>, 
+<w><ana lex="который" gr="APRO=(acc,sg,n|nom,sg,n)" />которое</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="день" gr="S,m,inan=abl,pl" />днях</w> 
+<w><ana lex="проходить" gr="V,intr=praet,sg,indic,n,pf" />прошло</w> 
+<w><ana lex="во" gr="PR=" />во</w> 
+<w><ana lex="дворец" gr="S,m,inan=abl,sg" />Дворце</w> 
+<w><ana lex="культура" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />культуры</w>, 
+<w><ana lex="грамота" gr="S,f,inan=acc,sg" />грамоту</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="медаль" gr="S,f,inan=(acc,sg|nom,sg)" />медаль</w> 
+<w><ana lex="от" gr="PR=" />от</w> 
+<w><ana lex="общественный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />общественной</w> 
+<w><ana lex="организация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />организации</w> 
+<w><ana lex="добровольный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Добровольного</w> 
+<w><ana lex="общество" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />общества</w> 
+<w><ana lex="содействие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />содействия</w> 
+<w><ana lex="армия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />армии</w>, 
+<w><ana lex="авиация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />авиации</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="флот" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />флота</w> 
+<w><ana lex="получать" gr="V,tran=praet,pl,indic,pf" />получили</w> 
+<w><ana lex="активист" gr="S,m,anim=nom,pl" />активисты</w> 
+<w><ana lex="местный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />местного</w> 
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />отделения</w> 
+<w><ana lex="досааф" gr="S,m,inan=(acc,sg|nom,sg)" />ДОСААФ</w> 
+<w><ana lex="павловчанин" gr="S,m,anim=nom,pl" />павловчане</w> (
+<w><ana lex="слева" gr="ADV=" />слева</w> 
+<w><ana lex="направо" gr="ADV=" />направо</w>) 
+<w><ana lex="вячеслав" gr="S,persn,m,anim=nom,sg" />Вячеслав</w> 
+<w><ana lex="мартынов" gr="S,famn,m,anim=nom,sg" />Мартынов</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="сергей" gr="S,persn,m,anim=nom,sg" />Сергей</w> 
+<w><ana lex="лобан" gr="S,m,anim=(acc,pl|gen,pl)" />Лобанов</w>. 
+</se>
+<se>
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,inan|nom,sg,m)" />Первый</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="они" gr="SPRO,pl=(abl|acc|gen)" />них</w> 
+<w><ana lex="работать" gr="V,ipf,intr=inpraes,sg,indic,3p" />работает</w> 
+<w><ana lex="инструктор" gr="S,m,anim=ins,sg" />инструктором</w> 
+<w><ana lex="военный" gr="A=sg,brev,n" />военно</w>-
+<w><ana lex="патриотический" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />патриотического</w> 
+<w><ana lex="клуб" gr="S,m,inan=gen,sg" />клуба</w> «
+<w><ana lex="мужество" gr="S,n,inan=(acc,sg|nom,sg)" />Мужество</w>», 
+<w><ana lex="готовить" gr="V,ipf,tran=inpraes,sg,indic,3p" />готовит</w> 
+<w><ana lex="ребята" gr="S,pl,anim=(acc|gen)" />ребят</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="служба" gr="S,f,inan=(abl,sg|dat,sg)" />службе</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="российский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />российской</w> 
+<w><ana lex="армия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />армии</w>. 
+</se>
+<se>
+<w><ana lex="второй" gr="ANUM=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Второй</w> – 
+<w><ana lex="предприниматель" gr="S,m,anim=nom,sg" />предприниматель</w>, 
+<w><ana lex="член" gr="S,m,anim=nom,sg" />член</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="местный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />местного</w> 
+<w><ana lex="отделение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />отделения</w> 
+<w><ana lex="досааф" gr="S,m,inan=(acc,sg|nom,sg)" />ДОСААФ</w>, 
+<w><ana lex="оказывать" gr="V=inpraes,sg,indic,3p,ipf,tran" />оказывает</w> 
+<w><ana lex="материальный" gr="A=acc,sg,plen,f" />материальную</w> 
+<w><ana lex="помощь" gr="S,f,inan=(acc,sg|nom,sg)" />помощь</w> 
+<w><ana lex="общественный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />общественным</w> 
+<w><ana lex="патриотический" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />патриотическим</w> 
+<w><ana lex="организация" gr="S,f,inan=dat,pl" />организациям</w>., 
+<w><ana lex="текст" gr="S,m,inan=(acc,sg|nom,sg)" />Текст</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="фото" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />фото</w> 
+<w><ana lex="м" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />М</w>. 
+<w><ana lex="касьян" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Касьяна</w>.]
+
+</se>
+</body></html>

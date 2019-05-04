@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="постановление" gr="S,n,inan=ins,sg" />Постановлением</w> 
+<w><ana lex="правительство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />Правительства</w> 
+<w><ana lex="российский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Российской</w> 
+<w><ana lex="федерация" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />Федерации</w> 
+<w><ana lex="от" gr="PR=" />от</w> 15 
+<w><ana lex="ноябрь" gr="S,m,inan=gen,sg" />ноября</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> 
+<w>№</w> 1375 «
+<w><ana lex="о" gr="PR=" />О</w> 
+<w><ana lex="размер" gr="S,m,inan=abl,pl" />размерах</w> 
+<w><ana lex="минимальный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />минимальной</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="максимальный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />максимальной</w> 
+<w><ana lex="величина" gr="S,f,inan=gen,pl" />величин</w> 
+<w><ana lex="пособие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пособия</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="безработица" gr="S,f,inan=(abl,sg|dat,sg)" />безработице</w> 
+<w><ana lex="на" gr="PR=" />на</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,sg|nom,sg)" />год</w>» 
+<w><ana lex="на" gr="PR=" />на</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,sg|nom,sg)" />год</w> 
+<w><ana lex="увеличиваться" gr="V,intr=inpraes,sg,indic,3p,ipf" />увеличивается</w> 
+<w><ana lex="пособие" gr="S,n,inan=(acc,sg|nom,sg)" />пособие</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="безработица" gr="S,f,inan=(abl,sg|dat,sg)" />безработице</w>., 
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="настоящий" gr="A=(acc,sg,plen,n|nom,sg,plen,n|comp)" />настоящее</w> 
+<w><ana lex="время" gr="S,n,inan=(acc,sg|nom,sg)" />время</w> 
+<w><ana lex="минимальный" gr="A=nom,sg,plen,f" />минимальная</w> 
+<w><ana lex="величина" gr="S,f,inan=nom,sg" />величина</w> 
+<w><ana lex="пособие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пособия</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="безработица" gr="S,f,inan=(abl,sg|dat,sg)" />безработице</w> 
+<w><ana lex="составлять" gr="V,tran=inpraes,sg,indic,3p,ipf" />составляет</w> 850 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>, 
+<w><ana lex="а" gr="CONJ=" />а</w> 
+<w><ana lex="максимальный" gr="A=nom,sg,plen,f" />максимальная</w> – 4900 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>. 
+</se>
+<se>
+<w><ana lex="согласно" gr="PR=" />Согласно</w> 
+<w><ana lex="постановление" gr="S,n,inan=dat,sg" />Постановлению</w> 
+<w><ana lex="минимальный" gr="A=nom,sg,plen,f" />минимальная</w> 
+<w><ana lex="величина" gr="S,f,inan=nom,sg" />величина</w> 
+<w><ana lex="пособие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пособия</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="безработица" gr="S,f,inan=(abl,sg|dat,sg)" />безработице</w> 
+<w><ana lex="составлять" gr="V,tran=inpraes,sg,indic,3p,pf" />составит</w> 1500 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>, 
+<w><ana lex="максимальный" gr="A=nom,sg,plen,f" />максимальная</w> – 8000 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w>. 
+</se>
+<se>
+<w><ana lex="устанавливать" gr="V,tran=praet,sg,partcp,brev,f,pf,pass" />Установлена</w> 
+<w><ana lex="также" gr="ADV=" />также</w> 
+<w><ana lex="максимальный" gr="A=nom,sg,plen,f" />максимальная</w> 
+<w><ana lex="величина" gr="S,f,inan=nom,sg" />величина</w> 
+<w><ana lex="пособие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пособия</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="безработица" gr="S,f,inan=(abl,sg|dat,sg)" />безработице</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="размер" gr="S,m,inan=abl,sg" />размере</w> 11280 
+<w><ana lex="рубль" gr="S,m,inan=gen,pl" />рублей</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="лицо" gr="S,n,inan=gen,pl" />лиц</w> 
+<w><ana lex="предпенсионный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />предпенсионного</w> 
+<w><ana lex="возраст" gr="S,m,inan=gen,sg" />возраста</w> (
+<w><ana lex="с" gr="PR=" />с</w> 1 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w> – 
+<w><ana lex="это" gr="PART=" />это</w> 
+<w><ana lex="период" gr="S,m,inan=(acc,sg|nom,sg)" />период</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="течение" gr="S,n,inan=(acc,sg|nom,sg)" />течение</w> 
+<w><ana lex="пять" gr="NUM=(abl|dat|gen)" />пяти</w> 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="до" gr="PR=" />до</w> 
+<w><ana lex="наступление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />наступления</w> 
+<w><ana lex="возраст" gr="S,m,inan=gen,sg" />возраста</w>, 
+<w><ana lex="давать" gr="V,tran=(inpraes,acc,sg,partcp,plen,m,ipf,act,anim|inpraes,gen,sg,partcp,plen,m,ipf,act|inpraes,gen,sg,partcp,plen,n,ipf,act)" />дающего</w> 
+<w><ana lex="право" gr="S,n,inan=(acc,sg|nom,sg)" />право</w> 
+<w><ana lex="на" gr="PR=" />на</w> 
+<w><ana lex="страховой" gr="A=acc,sg,plen,f" />страховую</w> 
+<w><ana lex="пенсия" gr="S,f,inan=acc,sg" />пенсию</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="старость" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />старости</w>, 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="тот" gr="APRO=(abl,sg,m|abl,sg,n)" />том</w> 
+<w><ana lex="число" gr="S,n,inan=abl,sg" />числе</w> 
+<w><ana lex="назначать" gr="V,tran=inpraes,acc,sg,partcp,plen,f,ipf,pass" />назначаемую</w> 
+<w><ana lex="досрочно" gr="ADV=" />досрочно</w>)., 
+<w><ana lex="постановление" gr="S,n,inan=(acc,sg|nom,sg)" />Постановление</w> 
+<w><ana lex="вступать" gr="V,intr=inpraes,sg,indic,3p,ipf" />вступает</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="сила" gr="S,f,inan=acc,sg" />силу</w> 
+<w><ana lex="с" gr="PR=" />с</w> 1 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="год" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />года</w>., 
+<w><ana lex="д" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Д</w>. 
+<w><ana lex="щербаков" gr="S,famn,m,anim=nom,sg" />Щербаков</w>,, 
+<w><ana lex="помощник" gr="S,m,anim=nom,sg" />помощник</w> 
+<w><ana lex="прокурор" gr="S,m,anim=(acc,sg|gen,sg)" />прокурора</w> 
+<w><ana lex="павловский" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Павловского</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w>, 
+<w><ana lex="юрист" gr="S,m,anim=nom,sg" />юрист</w> 2 
+<w><ana lex="класс" gr="S,m,inan=gen,sg" />класса</w>.]
+
+</se>
+</body></html>

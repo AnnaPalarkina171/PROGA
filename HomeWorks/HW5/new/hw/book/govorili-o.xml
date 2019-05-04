@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="день" gr="S,m,inan=abl,pl" />днях</w> 
+<w><ana lex="состояться" gr="V,pf,intr=praet,sg,indic,n" />состоялось</w> 
+<w><ana lex="заседание" gr="S,n,inan=(acc,sg|nom,sg)" />заседание</w> 
+<w><ana lex="общественный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />общественного</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="при" gr="PR=" />при</w> 
+<w><ana lex="райотдел" qual="bastard" gr="S,m,inan=abl,sg" />райотделе</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w>., 
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="он" gr="SPRO,sg,3p,m=abl" />нём</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="отчет" gr="S,m,inan=ins,sg" />отчетом</w> 
+<w><ana lex="о" gr="PR=" />о</w> 
+<w><ana lex="проделывать" gr="V,tran=(praet,abl,sg,partcp,plen,f,pf,pass|praet,dat,sg,partcp,plen,f,pf,pass|praet,gen,sg,partcp,plen,f,pf,pass|praet,ins,sg,partcp,plen,f,pf,pass)" />проделанной</w> 
+<w><ana lex="в" gr="PR=" />в</w> 2018 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w> 
+<w><ana lex="работа" gr="S,f,inan=(abl,sg|dat,sg)" />работе</w> 
+<w><ana lex="выступать" gr="V,intr=praet,sg,indic,m,pf" />выступил</w> 
+<w><ana lex="председатель" gr="S,m,anim=nom,sg" />председатель</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="с" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />С</w>.
+<w><ana lex="л" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Л</w>. 
+<w><ana lex="ткаченко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Ткаченко</w>., 
+<w><ana lex="о" gr="PR=" />О</w> 
+<w><ana lex="состояние" gr="S,n,inan=abl,sg" />состоянии</w> 
+<w><ana lex="подростковый" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />подростковой</w> 
+<w><ana lex="преступность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />преступности</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="работа" gr="S,f,inan=(abl,sg|dat,sg)" />работе</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="предупреждение" gr="S,n,inan=dat,sg" />предупреждению</w> 
+<w><ana lex="безнадзорность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />безнадзорности</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="правонарушение" gr="S,n,inan=gen,pl" />правонарушений</w> 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="уходить" gr="V,intr=(inpraes,abl,sg,partcp,plen,m,ipf,act|inpraes,abl,sg,partcp,plen,n,ipf,act)" />уходящем</w> 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w> 
+<w><ana lex="рассказывать" gr="V=praet,sg,indic,f,pf" />рассказала</w> 
+<w><ana lex="начальник" gr="S,m,anim=nom,sg" />начальник</w> 
+<w><ana lex="отдел" gr="S,m,inan=gen,sg" />отдела</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="дело" gr="S,n,inan=dat,pl" />делам</w> 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w> 
+<w><ana lex="райотдел" qual="bastard" gr="S,m,inan=gen,sg" />райотдела</w> 
+<w><ana lex="полиция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />полиции</w> 
+<w><ana lex="н" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Н</w>.
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w>. 
+<w><ana lex="павленко" gr="S,famn,mf,anim=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Павленко</w>. 
+</se>
+<se>
+<w><ana lex="говорить" gr="V,ipf,tran=praet,pl,indic" />Говорили</w> 
+<w><ana lex="также" gr="ADV=" />также</w> 
+<w><ana lex="о" gr="PR=" />о</w> 
+<w><ana lex="проведение" gr="S,n,inan=abl,sg" />проведении</w> 
+<w><ana lex="ежегодный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />ежегодной</w> 
+<w><ana lex="всероссийский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />всероссийской</w> 
+<w><ana lex="акция" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />акции</w> «
+<w><ana lex="полицейский" gr="S,m,anim=nom,sg" />Полицейский</w> 
+<w><ana lex="дед" gr="S,m,anim=nom,sg" />Дед</w> 
+<w><ana lex="мороз" gr="S,m,inan=(acc,sg|nom,sg)" />Мороз</w>» 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="участие" gr="S,n,inan=ins,sg" />участием</w> 
+<w><ana lex="общественный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />общественного</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="сотрудник" gr="S,m,anim=(acc,pl|gen,pl)" />сотрудников</w> 
+<w><ana lex="отдел" gr="S,m,inan=gen,sg" />отдела</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="дело" gr="S,n,inan=dat,pl" />делам</w> 
+<w><ana lex="несовершеннолетний" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />несовершеннолетних</w> 
+<w><ana lex="омвд" qual="bastard" gr="S,n,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ОМВД</w> 
+<w><ana lex="россия" gr="S,geo,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />России</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="павловский" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />Павловскому</w> 
+<w><ana lex="район" gr="S,m,inan=dat,sg" />району</w>., 
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w>. 
+<w><ana lex="петров" gr="S,famn,m,anim=nom,sg" />Петров</w>.]
+
+</se>
+</body></html>

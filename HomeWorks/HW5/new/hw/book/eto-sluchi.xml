@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="как" gr="ADVPRO=" />Как</w> 
+<w><ana lex="свидетельствовать" gr="V,ipf,intr=inpraes,pl,indic,3p" />свидетельствуют</w> 
+<w><ana lex="архивный" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />архивные</w> 
+<w><ana lex="запись" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />записи</w>, 
+<w><ana lex="первый" gr="ANUM=(acc,sg,m,inan|nom,sg,m)" />первый</w> 
+<w><ana lex="поезд" gr="S,m,inan=(acc,sg|nom,sg)" />поезд</w> 
+<w><ana lex="через" gr="PR=" />через</w> 
+<w><ana lex="сосык" qual="bastard" gr="S,geo,m,inan=dat,sg" />Сосыку</w> – 
+<w><ana lex="ростовский" gr="A=acc,sg,plen,f" />Ростовскую</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="маршрут" gr="S,m,inan=dat,sg" />маршруту</w> 
+<w><ana lex="ростов" gr="S,geo,m,inan=(acc,sg|nom,sg)" />Ростов</w>-
+<w><ana lex="тихорецкий" gr="A=nom,sg,plen,f" />Тихорецкая</w>-
+<w><ana lex="владикавказ" gr="S,geo,m,inan=(acc,sg|nom,sg)" />Владикавказ</w> 
+<w><ana lex="проходить" gr="V,intr=praet,sg,indic,m,pf" />прошел</w> 
+<w><ana lex="в" gr="PR=" />в</w> 1875 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w>. 
+</se>
+<se>
+<w><ana lex="но" gr="CONJ=" />Но</w> 
+<w><ana lex="только" gr="PART=" />только</w> 
+<w><ana lex="в" gr="PR=" />в</w> 1888 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w>, 130 
+<w><ana lex="год" gr="S,m,inan=gen,pl" />лет</w> 
+<w><ana lex="назад" gr="ADV=" />назад</w>, 
+<w><ana lex="движение" gr="S,n,inan=(acc,sg|nom,sg)" />движение</w> 
+<w><ana lex="через" gr="PR=" />через</w> 
+<w><ana lex="станция" gr="S,f,inan=acc,sg" />станцию</w> 
+<w><ana lex="сосык" qual="bastard" gr="S,geo,m,inan=gen,sg" />Сосыка</w> 
+<w>I</w> 
+<w><ana lex="становиться" gr="V,intr=praet,sg,indic,n,pf" />стало</w> 
+<w><ana lex="интенсивный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />интенсивным</w>. 
+</se>
+<se>
+<w><ana lex="происходить" gr="V,intr=praet,sg,indic,n,pf" />Произошло</w> 
+<w><ana lex="это" gr="PART=" />это</w> 
+<w><ana lex="после" gr="PR=" />после</w> 
+<w><ana lex="открытие" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />открытия</w> 
+<w><ana lex="линия" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />линии</w> 
+<w><ana lex="тихорецкий" gr="A=nom,sg,plen,f" />Тихорецкая</w>-
+<w><ana lex="новороссийск" gr="S,geo,m,inan=(acc,sg|nom,sg)" />Новороссийск</w>., 
+<w><ana lex="а" gr="CONJ=" />А</w> 
+<w><ana lex="обязанный" gr="A=pl,brev" />обязаны</w> 
+<w><ana lex="мы" gr="SPRO,pl,1p=nom" />мы</w> 
+<w><ana lex="такой" gr="APRO=(dat,pl|ins,sg,m|ins,sg,n)" />таким</w> 
+<w><ana lex="транспортный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />транспортным</w> 
+<w><ana lex="прогресс" gr="S,m,inan=ins,sg" />прогрессом</w> 
+<w><ana lex="концессионер" gr="S,m,anim=dat,pl" />концессионерам</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="ростов" gr="S,geo,m,inan=gen,sg" />Ростова</w> – 
+<w><ana lex="брат" gr="S,m,anim=dat,pl" />братьям</w> 
+<w><ana lex="яков" gr="S,persn,m,anim=dat,sg" />Якову</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="самуил" gr="S,persn,m,anim=dat,sg" />Самуилу</w> 
+<w><ana lex="поляков" gr="S,famn,m,anim=(dat,pl|ins,sg)" />Поляковым</w>. 
+</se>
+<se>
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="свой" gr="APRO=(nom,pl|acc,pl,inan)" />свои</w> 
+<w><ana lex="средство" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />средства</w> 
+<w><ana lex="они" gr="SPRO,pl=nom" />они</w> 
+<w><ana lex="построить" gr="V,pf,tran=praet,pl,indic" />построили</w>   
+<w><ana lex="ростовый" qual="bastard" gr="A=sg,brev,n" />Ростово</w>-
+<w><ana lex="владикавказский" gr="A=acc,sg,plen,f" />Владикавказскую</w> 
+<w><ana lex="железный" gr="A=acc,sg,plen,f" />железную</w> 
+<w><ana lex="дорога" gr="S,f,inan=acc,sg" />дорогу</w>., 
+<w><ana lex="л" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />Л</w>. 
+<w><ana lex="ермак" gr="S,persn,m,anim=nom,sg" />Ермак</w>.]
+
+</se>
+</body></html>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="ежегодно" gr="ADV=" />Ежегодно</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="мир" gr="S,m,inan=abl,sg" />мире</w> 1 
+<w><ana lex="декабрь" gr="S,m,inan=gen,sg" />декабря</w> 
+<w><ana lex="отмечаться" gr="V,intr=inpraes,sg,indic,3p,ipf" />отмечается</w> 
+<w><ana lex="международный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Международный</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />день</w> 
+<w><ana lex="борьба" gr="S,sg,f,inan=gen" />борьбы</w> 
+<w><ana lex="со" gr="PR=" />со</w> 
+<w><ana lex="спид" gr="S,abbr,sg,m,inan=ins" />СПИДом</w>.  
+</se>
+<se>
+<w><ana lex="день" gr="S,m,inan=(acc,sg|nom,sg)" />День</w> 
+<w><ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf" />был</w> 
+<w><ana lex="провозглашать" gr="V=praet,sg,partcp,brev,m,pf,pass,tran" />провозглашен</w> 
+<w><ana lex="в" gr="PR=" />в</w> 1988 
+<w><ana lex="год" gr="S,m,inan=(dat,sg|loc,sg)" />году</w> 
+<w><ana lex="всемирный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Всемирной</w> 
+<w><ana lex="организация" gr="S,f,inan=ins,sg" />организацией</w> 
+<w><ana lex="здравоохранение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />здравоохранения</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="цель" gr="S,f,inan=ins,sg" />целью</w> 
+<w><ana lex="привлечение" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />привлечения</w> 
+<w><ana lex="внимание" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />внимания</w> 
+<w><ana lex="общественность" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />общественности</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="распространение" gr="S,n,inan=dat,sg" />распространению</w> 
+<w><ana lex="опасный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />опасного</w> 
+<w><ana lex="заболевание" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />заболевания</w>., 
+<w><ana lex="молодежный" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Молодежный</w> 
+<w><ana lex="совет" gr="S,m,inan=(acc,sg|nom,sg)" />совет</w> 
+<w><ana lex="район" gr="S,m,inan=gen,sg" />района</w> 
+<w><ana lex="специально" gr="ADV=" />специально</w> 
+<w><ana lex="к" gr="PR=" />к</w> 
+<w><ana lex="дата" gr="S,f,inan=(abl,sg|dat,sg)" />дате</w> 
+<w><ana lex="организовывать" gr="V=praet,sg,indic,m,pf" />организовал</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="спортзал" gr="S,m,inan=abl,sg" />спортзале</w> 
+<w>СШ</w> 
+<w>№</w> 2 
+<w><ana lex="товарищеский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />товарищеский</w> 
+<w><ana lex="турнир" gr="S,m,inan=(acc,sg|nom,sg)" />турнир</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="волейбол" gr="S,m,inan=dat,sg" />волейболу</w>. 
+</se>
+<se>
+<w><ana lex="на" gr="PR=" />На</w> 
+<w><ana lex="площадка" gr="S,f,inan=acc,sg" />площадку</w> 
+<w><ana lex="выходить" gr="V,intr=praet,pl,indic,pf" />вышли</w> 
+<w><ana lex="три" gr="NUM=(nom|acc,inan)" />три</w> 
+<w><ana lex="мужской" gr="A,plen=(nom,pl|acc,pl,inan)" />мужские</w> 
+<w><ana lex="команда" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />команды</w> – «
+<w><ana lex="дрса" qual="bastard" gr="S,sg,f,inan=acc" />ДРСУ</w>», «
+<w><ana lex="фаворит" gr="S,m,anim=nom,sg" />Фаворит</w>» 
+<w><ana lex="и" gr="CONJ=" />и</w> «
+<w><ana lex="искра" gr="S,f,inan=nom,sg" />Искра</w>». 
+</se>
+<se>
+<w><ana lex="за" gr="PR=" />За</w> 
+<w><ana lex="участие" gr="S,n,inan=(acc,sg|nom,sg)" />участие</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="игра" gr="S,f,inan=(abl,sg|dat,sg)" />игре</w> 
+<w><ana lex="весь" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />всех</w> 
+<w><ana lex="спортсмен" gr="S,m,anim=(acc,pl|gen,pl)" />спортсменов</w> 
+<w><ana lex="награждать" gr="V=praet,sg,indic,m,pf" />наградил</w> 
+<w><ana lex="грамота" gr="S,f,inan=ins,pl" />грамотами</w> 
+<w><ana lex="председатель" gr="S,m,anim=nom,sg" />председатель</w> 
+<w><ana lex="молодежный" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />молодежного</w> 
+<w><ana lex="совет" gr="S,m,inan=gen,sg" />совета</w> 
+<w><ana lex="а" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />А</w>. 
+<w><ana lex="любчич" qual="bastard" gr="S,famn,m,anim=nom,sg" />Любчич</w>., (
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="сообщение" gr="S,n,inan=dat,sg" />сообщению</w> 
+<w><ana lex="отдел" gr="S,m,inan=gen,sg" />отдела</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="дело" gr="S,n,inan=dat,pl" />делам</w> 
+<w><ana lex="молодежь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />молодёжи</w>).]
+
+</se>
+</body></html>

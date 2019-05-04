@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="сделать" gr="V,pf,tran=(inpraes,pl,indic,1p|pl,imper,1p)" />Сделаем</w> 
+<w><ana lex="фонд" gr="S,m,inan=(acc,pl|nom,pl)" />фонды</w> 
+<w><ana lex="богатый" gr="A=comp" />богаче</w>, 
+<w><ana lex="павловский" gr="S,famn,m,anim=nom,sg" />Павловский</w> 
+<w><ana lex="историко" gr="COM=" />историко</w>-
+<w><ana lex="краеведческий" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />краеведческий</w> 
+<w><ana lex="музей" gr="S,m,inan=(acc,sg|nom,sg)" />музей</w> 
+<w><ana lex="принимать" gr="V=inpraes,sg,indic,3p,pf" />примет</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="дар" gr="S,m,inan=(acc,sg|nom,sg)" />дар</w> 
+<w><ana lex="чучело" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />чучела</w> 
+<w><ana lex="животное" gr="S,n,anim=(abl,pl|acc,pl|gen,pl)" />животных</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="птица" gr="S,f,anim=(acc,pl|gen,pl)" />птиц</w>, 
+<w><ana lex="предмет" gr="S,m,inan=(acc,pl|nom,pl)" />предметы</w> 
+<w><ana lex="быт" gr="S,sg,m,inan=gen" />быта</w> (
+<w><ana lex="радиоприемник" gr="S,m,inan=(acc,pl|nom,pl)" />радиоприемники</w>, 
+<w><ana lex="телевизор" gr="S,m,inan=(acc,pl|nom,pl)" />телевизоры</w>, 
+<w><ana lex="утюг" gr="S,m,inan=(acc,pl|nom,pl)" />утюги</w>, 
+<w><ana lex="светильник" gr="S,m,inan=(acc,pl|nom,pl)" />светильники</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="др" gr="S,abbr,pl,inan=(abl|acc|dat|gen|ins|nom)" />др</w>.), 
+<w><ana lex="утварь" gr="S,f,inan=(acc,sg|nom,sg)" />утварь</w>, 
+<w><ana lex="галантерея" gr="S,f,inan=acc,sg" />галантерею</w>, 
+<w><ana lex="одежда" gr="S,f,inan=acc,sg" />одежду</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="обувь" gr="S,f,inan=(acc,sg|nom,sg)" />обувь</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="история" gr="S,f,inan=ins,sg" />историей</w>, 
+<w><ana lex="предмет" gr="S,m,inan=(acc,pl|nom,pl)" />предметы</w> 
+<w><ana lex="школьный" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />школьной</w> 
+<w><ana lex="тематика" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />тематики</w>. 
+</se>
+<se>
+<w><ana lex="быть" gr="V,intr=(inpraes,pl,indic,1p|pl,imper,1p)" />Будем</w> 
+<w><ana lex="благодарный" gr="A=pl,brev" />благодарны</w> 
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="любой" gr="APRO=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />любой</w> 
+<w><ana lex="вклад" gr="S,m,inan=(acc,sg|nom,sg)" />вклад</w>. 
+</se>
+<se>
+<w><ana lex="ждать" gr="V,ipf,tran=inpraes,pl,indic,1p" />Ждем</w> 
+<w><ana lex="вы" gr="SPRO,pl,2p=(abl|acc|gen)" />вас</w>: 
+<w><ana lex="ст" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ст</w>. 
+<w><ana lex="павловская" gr="S,famn,f,anim=nom,sg" />Павловская</w>, 
+<w><ana lex="ул" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ул</w>. 
+<w><ana lex="ленин" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Ленина</w>, 11, 
+<w><ana lex="тело" gr="S,n,inan=gen,pl" />тел</w>. 3-15-08., 
+<w><ana lex="подарок" gr="S,m,inan=(acc,pl|nom,pl)" />Подарки</w> 
+<w><ana lex="хотеть" gr="V,ipf,tran=inpraes,pl,indic,3p" />хотят</w> 
+<w><ana lex="все" gr="SPRO,pl=(acc|nom)" />все</w>, 
+<w><ana lex="в" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />В</w> 
+<w><ana lex="святой" gr="A=sg,brev,n" />Свято</w>-
+<w><ana lex="казанский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Казанском</w> 
+<w><ana lex="храм" gr="S,m,inan=abl,sg" />храме</w> 
+<w><ana lex="станица" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />станицы</w> 
+<w><ana lex="новолеушковская" qual="bastard" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Новолеушковской</w> 
+<w><ana lex="продолжаться" gr="V,intr=inpraes,sg,indic,3p,ipf" />продолжается</w> 
+<w><ana lex="рождественский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />рождественский</w> 
+<w><ana lex="сбор" gr="S,m,inan=(acc,sg|nom,sg)" />сбор</w>-
+<w><ana lex="марафон" gr="S,m,inan=(acc,sg|nom,sg)" />марафон</w> 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="детвора" gr="S,sg,f,inan=gen" />детворы</w> 
+<w><ana lex="из" gr="PR=" />из</w> 
+<w><ana lex="нуждающийся" gr="S,m,anim=(abl,pl|acc,pl|gen,pl)" />нуждающихся</w> 
+<w><ana lex="семья" gr="S,f,inan=gen,pl" />семей</w>., 
+<w><ana lex="очень" gr="ADV=" />Очень</w> 
+<w><ana lex="нужный" gr="A=pl,brev" />нужны</w> 
+<w><ana lex="игрушка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />игрушки</w>, 
+<w><ana lex="сувенир" gr="S,m,inan=(acc,pl|nom,pl)" />сувениры</w>, 
+<w><ana lex="сладость" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />сладости</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="одежда" gr="S,f,inan=nom,sg" />одежда</w>. 
+</se>
+<se>
+<w><ana lex="приносить" gr="V=inf,ipf,tran" />Приносить</w> 
+<w><ana lex="пожертвование" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />пожертвования</w> 
+<w><ana lex="можно" gr="ADV,praed=" />можно</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="храм" gr="S,m,inan=(acc,sg|nom,sg)" />храм</w> 
+<w><ana lex="ст" gr="S,abbr,f,inan=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />ст</w>. 
+<w><ana lex="новолеушковская" qual="bastard" gr="S,famn,f,anim=(abl,sg|dat,sg|gen,sg|ins,sg)" />Новолеушковской</w> 
+<w><ana lex="или" gr="CONJ=" />или</w> 
+<w><ana lex="передавать" gr="V,tran=inf,pf" />передать</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="станица" gr="S,f,inan=(abl,sg|dat,sg)" />станице</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />Павловской</w> (
+<w><ana lex="тело" gr="S,n,inan=gen,pl" />тел</w>. 8-967-3122227, 
+<w><ana lex="ксения" gr="S,persn,f,anim=nom,sg" />Ксения</w>)., 
+<w><ana lex="к" gr="PR=" />К</w> 
+<w><ana lex="святыня" gr="S,f,inan=(abl,sg|dat,sg)" />святыне</w> 
+<w><ana lex="донской" gr="A,plen=(abl,sg,f|dat,sg,f|gen,sg,f|ins,sg,f|acc,sg,m,inan|nom,sg,m)" />Донской</w> 
+<w><ana lex="земля" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />земли</w>, 
+<w><ana lex="по" gr="PR=" />По</w> 
+<w><ana lex="благословение" gr="S,n,inan=dat,sg" />благословению</w> 
+<w><ana lex="епископ" gr="S,m,anim=(acc,sg|gen,sg)" />епископа</w> 
+<w><ana lex="тихорецкий" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Тихорецкого</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="кореновский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Кореновского</w> 
+<w><ana lex="стефан" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Стефана</w> 3-4 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 
+<w><ana lex="состояться" gr="V,pf,intr=inpraes,sg,indic,3p" />состоится</w> 
+<w><ana lex="паломнический" gr="A=nom,sg,plen,f" />паломническая</w> 
+<w><ana lex="поездка" gr="S,f,inan=nom,sg" />поездка</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="маршрут" gr="S,m,inan=dat,sg" />маршруту</w> 
+<w><ana lex="святой" gr="A=sg,brev,n" />Свято</w>-
+<w><ana lex="иверский" qual="bastard" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />Иверский</w> 
+<w><ana lex="женский" gr="A=(acc,sg,plen,m,inan|nom,sg,plen,m)" />женский</w> 
+<w><ana lex="монастырь" gr="S,m,inan=(acc,sg|nom,sg)" />монастырь</w> (
+<w><ana lex="ростов-на-дону" gr="S,geo,sg,m,inan=(acc|nom)" />Ростов-на-Дону</w>) – 
+<w><ana lex="никольский" gr="S,famn,m,anim=nom,sg" />Никольский</w> 
+<w><ana lex="храм" gr="S,m,inan=(acc,sg|nom,sg)" />храм</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="мощь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />мощи</w> 
+<w><ana lex="павел" gr="S,persn,m,anim=(acc,sg|gen,sg)" />Павла</w> 
+<w><ana lex="таганрогский" gr="A,geo=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Таганрогского</w> (
+<w><ana lex="таганрог" gr="S,geo,m,inan=(acc,sg|nom,sg)" />Таганрог</w>). 
+</se>
+<se>
+<w><ana lex="предполагаться" gr="V,ipf,intr=inpraes,sg,indic,3p" />Предполагается</w> 
+<w><ana lex="посещение" gr="S,n,inan=(acc,sg|nom,sg)" />посещение</w> 
+<w><ana lex="святой" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />святых</w> 
+<w><ana lex="источник" gr="S,m,inan=gen,pl" />источников</w>. 
+</se>
+<se>
+<w><ana lex="тело" gr="S,n,inan=gen,pl" />Тел</w>. 
+<w><ana lex="для" gr="PR=" />для</w> 
+<w><ana lex="справка" gr="S,f,inan=gen,pl" />справок</w> 8-903-4578801. , 
+<w><ana lex="а" gr="CONJ=" />А</w>. 
+<w><ana lex="алексеев" gr="S,famn,m,anim=(acc,sg|gen,sg)" />Алексеева</w>.]
+
+</se>
+</body></html>

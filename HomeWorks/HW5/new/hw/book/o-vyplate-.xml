@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>[
+<w><ana lex="в" gr="PR=" />В</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="предстоящий" gr="A=ins,pl,plen" />предстоящими</w> 
+<w><ana lex="выходной" gr="A=ins,pl,plen" />выходными</w> 
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="праздничный" gr="A=ins,pl,plen" />праздничными</w> 
+<w><ana lex="день" gr="S,m,inan=ins,pl" />днями</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="январь" gr="S,m,inan=abl,sg" />январе</w> 
+<w><ana lex="доставка" gr="S,f,inan=nom,sg" />доставка</w>   
+<w><ana lex="пенсия" gr="S,f,inan=gen,pl" />пенсий</w>   
+<w><ana lex="и" gr="CONJ=" />и</w> 
+<w><ana lex="другой" gr="APRO=(abl,pl|gen,pl|acc,pl,anim)" />других</w> 
+<w><ana lex="социальный" gr="A=(abl,pl,plen|acc,pl,plen,anim|gen,pl,plen)" />социальных</w> 
+<w><ana lex="выплата" gr="S,f,inan=gen,pl" />выплат</w> 
+<w><ana lex="отделение" gr="S,n,inan=ins,pl" />отделениями</w> 
+<w><ana lex="почтовый" gr="A=(abl,sg,plen,f|dat,sg,plen,f|gen,sg,plen,f|ins,sg,plen,f)" />почтовой</w> 
+<w><ana lex="связь" gr="S,f,inan=(abl,sg|acc,pl|dat,sg|gen,sg|nom,pl)" />связи</w> 
+<w><ana lex="краснодарский" gr="A=(acc,sg,plen,m,anim|gen,sg,plen,m|gen,sg,plen,n)" />Краснодарского</w> 
+<w><ana lex="край" gr="S,m,inan=(acc,pl|gen,sg|nom,pl)" />края</w> 
+<w><ana lex="быть" gr="V,intr=inpraes,sg,indic,3p" />будет</w> 
+<w><ana lex="осуществляться" gr="V,intr=inf,ipf" />осуществляться</w> 
+<w><ana lex="по" gr="PR=" />по</w> 
+<w><ana lex="следующий" gr="A=(dat,sg,plen,m|dat,sg,plen,n)" />следующему</w> 
+<w><ana lex="график" gr="S,m,inan=dat,sg" />графику</w>:, 
+<w><ana lex="выплатной" gr="A=(acc,pl,plen,inan|nom,pl,plen)" />выплатные</w> 
+<w><ana lex="день" gr="S,m,inan=(acc,pl|nom,pl)" />дни</w>      
+<w><ana lex="за" gr="PR=" />за</w> 
+<w><ana lex="какой" gr="APRO=(nom,pl|acc,pl,inan)" />какие</w> 
+<w><ana lex="число" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />числа</w>, 3 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>.        3-4 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>., 4 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>.        5-6 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>., 5 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>.        7 
+<w><ana lex="январь" gr="S,m,inan=gen,sg" />января</w> 2019 
+<w><ana lex="г" gr="S,abbr=(abl,pl|abl,sg|acc,pl|acc,sg|dat,pl|dat,sg|gen,pl|gen,sg|ins,pl|ins,sg|nom,pl|nom,sg)" />г</w>., 
+<w><ana lex="далее" gr="ADV=" />Далее</w> – 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="соответствие" gr="S,n,inan=abl,sg" />соответствии</w> 
+<w><ana lex="с" gr="PR=" />с</w> 
+<w><ana lex="обычный" gr="A=(dat,pl,plen|ins,sg,plen,m|ins,sg,plen,n)" />обычным</w> 
+<w><ana lex="график" gr="S,m,inan=ins,sg" />графиком</w> 
+<w><ana lex="доставка" gr="S,f,inan=(acc,pl|gen,sg|nom,pl)" />доставки</w>., 
+<w><ana lex="в" gr="PR=" />В</w>. 
+<w><ana lex="беспалый" gr="A=nom,sg,plen,f" />Беспалая</w>,, 
+<w><ana lex="заместитель" gr="S,m,anim=nom,sg" />заместитель</w> 
+<w><ana lex="начальник" gr="S,m,anim=(acc,sg|gen,sg)" />начальника</w> 
+<w><ana lex="управление" gr="S,n,inan=(acc,pl|gen,sg|nom,pl)" />управления</w> 
+<w>ПФР</w> 
+<w><ana lex="в" gr="PR=" />в</w> 
+<w><ana lex="павловский" gr="A=(abl,sg,plen,m|abl,sg,plen,n)" />Павловском</w> 
+<w><ana lex="район" gr="S,m,inan=abl,sg" />районе</w>.]
+
+</se>
+</body></html>
