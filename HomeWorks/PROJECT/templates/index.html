@@ -4,16 +4,63 @@
     <meta charset="UTF-8">
     <title>Main</title>
     <style>
+
         p{
                 text-align: center;
-
+                font-style: italic;
+                font-family: Courier New, monospac;
+                font-size: 25px;
             }
+
+        .semi-transparent-button {
+                display: block;
+                box-sizing: border-box;
+                margin: 0 auto;
+                padding: 8px;
+                width: 80%;
+                max-width: 200px;
+                background: #fff; /* запасной цвет для старых браузеров */
+                background: rgba(255, 255, 255, 0.5);
+                border-radius: 8px;
+                text-align: center;
+                letter-spacing: 1px;
+                outline: none;
+                transition: all 0.3s ease-out;
+                border: 1px solid black;
+            }
+        .semi-transparent-button:hover,
+        .semi-transparent-button:focus,
+        .semi-transparent-button:active {
+                background: #fff;
+                color: #000;
+                transition: all 0.5s ease-in;
+        }
+        .logo{
+            margin-left: 38%;
+            padding-top: 1%;
+        }
+        .art{
+            margin-left: 38%;
+            padding-top: 2%;
+        }
+
     </style>
 </head>
 <body>
-    <p>{{sentence}}</p><br>
-    <form>
-    <input type="submit" value="New sentence" name="'shft">
-    </form>
+    <div class="container">
+        <div class="logo">
+            <img src="https://1000logos.net/wp-content/uploads/2017/02/Harry-Potter-Logo.png" width="350" height="230">
+        </div>
+        <p>{{sentence}}</p><br>
+        <form>
+            <div class="submit">
+                <!-- <a class="semi-transparent-button" href="#">BUTTON</a>!-->
+                <input class="semi-transparent-button" type="submit" value="New sentence" name="'shft">
+            </div>
+        </form>
+        <div class="art">
+            <img src="https://i.pinimg.com/originals/b4/89/8c/b4898cf540490359f26b401e93afb515.jpg" width="350" height="350">
+        </div>
+    </div>
 </body>
 </html>
